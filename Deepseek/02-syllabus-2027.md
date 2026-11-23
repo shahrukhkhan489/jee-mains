@@ -80,7 +80,7 @@ Frame of reference, motion in a straight line, speed and velocity, uniform and n
 
 ### Unit 3 - Laws of Motion
 
-Force and inertia, Newton’s first law of motion, momentum, Newton’s second law of motion, impulse, Newton’s third law of motion, law of conservation of linear momentum and its applications,
+Force and inertia, Newton’s first law of motion, momentum, Newton’s second law of motion, impulse, Newton’s third law of motion, law of conservation of linear momentum and its applications, equilibrium of concurrent forces, static and kinetic friction, laws of friction, rolling friction, dynamics of uniform circular motion, centripetal force and its applications including vehicle on a level circular road and vehicle on a banked road
 
 ### Unit 4 - Work, Energy and Power
 
@@ -88,7 +88,7 @@ Work done by a constant force and a variable force, kinetic and potential energi
 
 ### Unit 5 - Rotational Motion
 
-Centre of mass of a two-particle system, centre of mass of a rigid body, basic concepts of rotational motion, moment of a force, torque, angular momentum, conservation of angular momentum and its applications, moment of inertia, radius of gyration, values of moment of inertia for simple geometrical objects, parallel and perpendicular axes theorems and
+Centre of mass of a two-particle system, centre of mass of a rigid body, basic concepts of rotational motion, moment of a force, torque, angular momentum, conservation of angular momentum and its applications, moment of inertia, radius of gyration, values of moment of inertia for simple geometrical objects, parallel and perpendicular axes theorems and their applications, equilibrium of rigid bodies, rigid body rotation, equations of rotational motion, comparison of linear and rotational motion
 
 ### Unit 6 - Gravitation
 
@@ -96,7 +96,7 @@ Universal law of gravitation, acceleration due to gravity and its variation with
 
 ### Unit 7 - Properties of Solids and Liquids
 
-Elastic behaviour, stress-strain relationship, Hooke’s law, Young’s modulus, bulk modulus and modulus of rigidity, pressure due to a fluid column, Pascal’s law and applications, effect of gravity on fluid pressure, viscosity, Stoke’s law, terminal velocity, streamline and turbulent flow, critical velocity, Bernoulli’s principle and applications, surface energy and surface tension, angle of contact, excess pressure across a curved surface, applications of surface tension including
+Elastic behaviour, stress-strain relationship, Hooke’s law, Young’s modulus, bulk modulus and modulus of rigidity, pressure due to a fluid column, Pascal’s law and applications, effect of gravity on fluid pressure, viscosity, Stoke’s law, terminal velocity, streamline and turbulent flow, critical velocity, Bernoulli’s principle and applications, surface energy and surface tension, angle of contact, excess pressure across a curved surface, applications of surface tension including drops, bubbles and capillary rise, heat, temperature, thermal expansion, specific heat capacity, calorimetry, change of state, latent heat, heat transfer through conduction, convection and radiation
 
 ### Unit 8 - Thermodynamics
 
@@ -112,15 +112,15 @@ Oscillations and periodic motion, time period, frequency, displacement as a func
 
 ### Unit 11 - Electrostatics
 
-Electric charges, conservation of charge, Coulomb’s law, forces between two-point charges, forces between multiple charges, superposition principle and continuous charge distribution, electric field, electric field due to a point charge, electric field lines, electric dipole, electric field due to a dipole, torque on a dipole in a uniform electric field, electric flux, Gauss’s law and its applications to
+Electric charges, conservation of charge, Coulomb’s law, forces between two-point charges, forces between multiple charges, superposition principle and continuous charge distribution, electric field, electric field due to a point charge, electric field lines, electric dipole, electric field due to a dipole, torque on a dipole in a uniform electric field, electric flux, Gauss’s law and its applications to infinitely long uniformly charged straight wire, uniformly charged infinite plane sheet and uniformly charged thin spherical shell, electric potential and its calculation for point charge, electric dipole and system of charges, potential difference, equipotential surfaces, electrical potential energy of a system of two-point charges and of an electric dipole in an electrostatic field, conductors and insulators, dielectrics and electric polarization, capacitors and capacitance, combination of capacitors in series and parallel, capacitance of a parallel plate capacitor with and without dielectric medium, energy stored in a capacitor
 
 ### Unit 12 - Current Electricity
 
-Electric current, drift velocity, mobility and their relation with electric current, Ohm’s law, electrical resistance, I-V characteristics of ohmic and non-ohmic conductors, electrical energy and power, electrical resistivity and conductivity, series and parallel combinations of resistors, temperature dependence of resistance, internal resistance, potential
+Electric current, drift velocity, mobility and their relation with electric current, Ohm’s law, electrical resistance, I-V characteristics of ohmic and non-ohmic conductors, electrical energy and power, electrical resistivity and conductivity, series and parallel combinations of resistors, temperature dependence of resistance, internal resistance, potential difference and emf of a cell, combination of cells in series and parallel, Kirchhoff’s laws and applications, Wheatstone bridge, metre bridge
 
 ### Unit 13 - Magnetic Effects of Current and Magnetism
 
-Biot-Savart law and its application to current-carrying circular loop, Ampere’s law and its applications to infinitely long straight wire and solenoid, force on a moving charge in uniform magnetic and electric fields, force on a current-carrying conductor in a uniform magnetic field, force between two parallel current-carrying conductors, definition of ampere, torque experienced by a current loop in a uniform magnetic field, moving coil galvanometer, its sensitivity and conversion to ammeter and voltmeter, current loop as a magnetic dipole, magnetic dipole moment, bar magnet as an equivalent solenoid, magnetic field lines, magnetic field due to a magnetic dipole along its axis and perpendicular to its axis, torque on a magnetic dipole in a uniform magnetic field, para-, dia- and
+Biot-Savart law and its application to current-carrying circular loop, Ampere’s law and its applications to infinitely long straight wire and solenoid, force on a moving charge in uniform magnetic and electric fields, force on a current-carrying conductor in a uniform magnetic field, force between two parallel current-carrying conductors, definition of ampere, torque experienced by a current loop in a uniform magnetic field, moving coil galvanometer, its sensitivity and conversion to ammeter and voltmeter, current loop as a magnetic dipole, magnetic dipole moment, bar magnet as an equivalent solenoid, magnetic field lines, magnetic field due to a magnetic dipole along its axis and perpendicular to its axis, torque on a magnetic dipole in a uniform magnetic field, para-, dia- and ferromagnetic substances, effect of temperature on magnetic properties
 
 ### Unit 14 - Electromagnetic Induction and Alternating Currents
 
@@ -154,7 +154,7 @@ Matter and its nature, Dalton’s atomic theory, concept of atom, molecule, elem
 
 ### Unit 2 - Atomic Structure
 
-Nature of electromagnetic radiation, photoelectric effect, hydrogen spectrum, Bohr model of hydrogen atom, derivation of energy and radius of orbits, limitations of Bohr’s model, dual nature of matter, de Broglie relationship, Heisenberg uncertainty principle, elementary quantum mechanics, quantum mechanical model of atom, atomic orbitals, variation of and with r for 1s and 2s orbitals, quantum ψ ψ² numbers and significance, shapes of s, p and d orbitals, electron spin, spin quantum number, Aufbau principle, Pauli exclusion principle, Hund’s rule, electronic configuration, extra stability of half-filled and completely filled orbitals
+Nature of electromagnetic radiation, photoelectric effect, hydrogen spectrum, Bohr model of hydrogen atom, derivation of energy and radius of orbits, limitations of Bohr’s model, dual nature of matter, de Broglie relationship, Heisenberg uncertainty principle, elementary quantum mechanics, quantum mechanical model of atom, atomic orbitals, variation of ψ and ψ² with r for 1s and 2s orbitals, quantum numbers and significance, shapes of s, p and d orbitals, electron spin, spin quantum number, Aufbau principle, Pauli exclusion principle, Hund’s rule, electronic configuration, extra stability of half-filled and completely filled orbitals
 
 ### Unit 3 - Chemical Bonding and Molecular Structure
 
@@ -162,7 +162,7 @@ Kossel-Lewis approach, ionic and covalent bonds, ionic bond formation and factor
 
 ### Unit 4 - Chemical Thermodynamics
 
-System and surroundings, extensive and intensive properties, state functions, entropy, types of processes, first law of thermodynamics, work, heat, internal energy, enthalpy, heat capacity, molar heat capacity, Hess’s law, enthalpies of bond dissociation, combustion, formation, atomization, sublimation, phase transition, hydration, ionization and solution, second law of thermodynamics, spontaneity of processes, of universe, of system, standard ΔS ΔG Gibbs energy change and equilibrium constant
+System and surroundings, extensive and intensive properties, state functions, entropy, types of processes, first law of thermodynamics, work, heat, internal energy, enthalpy, heat capacity, molar heat capacity, Hess’s law, enthalpies of bond dissociation, combustion, formation, atomization, sublimation, phase transition, hydration, ionization and solution, second law of thermodynamics, spontaneity of processes, ΔS of universe, ΔG of system, standard Gibbs energy change and equilibrium constant
 
 ### Unit 5 - Solutions
 
@@ -170,11 +170,11 @@ Methods of expressing concentration including molality, molarity, mole fraction 
 
 ### Unit 6 - Equilibrium
 
-Dynamic equilibrium, equilibria involving physical processes, solid-liquid, liquid-gas, gas-gas and solid-gas equilibria, Henry’s law, characteristics of equilibrium involving physical processes, law of chemical equilibrium, equilibrium constants Kp and Kc, significance of and factors affecting ΔG ΔG°, equilibrium such as concentration, pressure, temperature and catalyst, Le Chatelier’s principle, ionic equilibrium, weak and strong electrolytes, ionization of electrolytes, Arrhenius, Bronsted-Lowry and Lewis concepts of acids and bases, ionization, acid-base equilibria, ionization constants, ionization of water, pH scale, common ion effect, hydrolysis of salts, solubility of sparingly soluble salts, solubility product and buffer solutions
+Dynamic equilibrium, equilibria involving physical processes, solid-liquid, liquid-gas, gas-gas and solid-gas equilibria, Henry’s law, characteristics of equilibrium involving physical processes, law of chemical equilibrium, equilibrium constants Kp and Kc, significance of ΔG and ΔG°, factors affecting equilibrium such as concentration, pressure, temperature and catalyst, Le Chatelier’s principle, ionic equilibrium, weak and strong electrolytes, ionization of electrolytes, Arrhenius, Bronsted-Lowry and Lewis concepts of acids and bases, ionization, acid-base equilibria, ionization constants, ionization of water, pH scale, common ion effect, hydrolysis of salts, solubility of sparingly soluble salts, solubility product and buffer solutions
 
 ### Unit 7 - Redox Reactions and Electrochemistry
 
-Electronic concepts of oxidation and reduction, redox reactions, oxidation number, rules for assigning oxidation number, balancing of redox reactions, electrolytic and metallic conduction, conductance in electrolytic solutions, molar conductivity and variation with concentration, Kohlrausch’s law and its applications, electrolytic and galvanic cells, different types of electrodes, electrode potentials including standard electrode potential, half-cell and cell
+Electronic concepts of oxidation and reduction, redox reactions, oxidation number, rules for assigning oxidation number, balancing of redox reactions, electrolytic and metallic conduction, conductance in electrolytic solutions, molar conductivity and variation with concentration, Kohlrausch’s law and its applications, electrolytic and galvanic cells, different types of electrodes, electrode potentials including standard electrode potential, half-cell and cell reactions, emf of galvanic cell and measurement, Nernst equation and applications, relationship between cell potential and Gibbs energy change, dry cell, lead accumulator, fuel cells
 
 ### Unit 8 - Chemical Kinetics
 
@@ -194,7 +194,7 @@ Transition elements, general introduction, electronic configuration, occurrence,
 
 ### Unit 12 - Coordination Compounds
 
-Introduction to coordination compounds, Werner’s theory, ligands, coordination number, denticity, chelation, IUPAC nomenclature of mononuclear coordination compounds, isomerism, bonding by valence bond approach and basic ideas of crystal field theory, colour and magnetic properties,
+Introduction to coordination compounds, Werner’s theory, ligands, coordination number, denticity, chelation, IUPAC nomenclature of mononuclear coordination compounds, isomerism, bonding by valence bond approach and basic ideas of crystal field theory, colour and magnetic properties, importance in qualitative analysis, extraction of metals and biological systems
 
 ### Unit 13 - Purification and Characterisation of Organic Compounds
 

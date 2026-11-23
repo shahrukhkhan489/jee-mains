@@ -2,7 +2,7 @@
 ### Syllabus, Chapter-Wise Question Analysis & Preparation Strategy
 
 > **Sources:**
-> - Official Detailed Unit-Wise Syllabus: `syllabus-jee-main-2027.pdf`
+> - Detailed unit-wise syllabus (2026-based reference): `syllabus-jee-main-2027.pdf`
 > - Question & Weightage Trend Analysis (2024–2026): Vedantu JEE Analysis Slides (`images/`)
 
 ---
@@ -12,6 +12,8 @@
 The table below breaks down the total questions asked in 2024, 2025, and 2026 across all shifts, the cumulative average questions, and the expected questions per shift.
 
 ### High-Weightage Chapters (Tier 1 & Tier 2)
+
+> **Reading note:** per-shift values are transcribed only where the source slide prints them; "—" means the slide gives no per-shift figure for that chapter. Priority tiers are editorial additions, not source data.
 
 | Chapter Name | 2024 | 2025 | 2026 | Average Qs | Av. Qs per Shift | Priority Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -24,50 +26,47 @@ The table below breaks down the total questions asked in 2024, 2025, and 2026 ac
 | **Differential Equations** | 37 | 21 | 21 | 26 | **1 - 2** | **Tier 2** |
 | **Limits, Continuity & Differentiability (LCD)** | 28 | 26 | 21 | 25 | **1 - 2** | **Tier 2** |
 | **Probability** | 26 | 21 | 18 | 22 | **1 - 2** | **Tier 2** |
-| **Complex Numbers** | 24 | 19 | 19 | 21 | **1 - 2** | **Tier 2** |
+| **Complex Numbers** | 24 | 19 | 19 | 21 | ~1 | **Tier 2** |
 
 ### Moderate & Low-Weightage Chapters (Tier 3)
 
 | Chapter Name | 2024 | 2025 | 2026 | Average Qs | Av. Qs per Shift | Priority Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Permutations & Combinations (P&C)** | 21 | 21 | 22 | 20 | **1** | Tier 2 |
-| **Binomial Theorem** | 23 | 24 | 17 | 20 | **1** | Tier 2 |
-| **Area Under the Curve (AUC)** | 22 | 18 | 19 | 20 | **1** | Tier 2 (High ROI) |
-| **Applications of Derivatives (AOD)** | 26 | 14 | 11 | 17 | **0 - 1** | Tier 3 |
-| **Sets, Relations & Functions** | 21 | 16 | 14 | 17 | **0 - 1** | Tier 3 |
-| **Quadratic Equations** | 18 | 16 | 16 | 17 | **0 - 1** | Tier 3 |
-| **Statistics** | 16 | 8 | 16 | 13 | **0 - 1** | Tier 3 (High ROI) |
-| **Inverse Trigonometric Functions (ITF)** | 8 | 11 | 10 | 10 | **0 - 1** | Tier 3 |
-| **Trigonometric Ratios and Identities** | 7 | 6 | 12 | 8 | **0 - 1** | Tier 3 |
-| **Differentiation** | 15 | 4 | 2 | 7 | **0 - 1** | Tier 3 |
-| **Indefinite Integrals** | 8 | 8 | 7 | 8 | **0 - 1** | Tier 3 |
+| **Permutations & Combinations (P&C)** | 21 | 21 | 22 | 20 | — | Tier 2 |
+| **Binomial Theorem** | 23 | 24 | 17 | 20 | — | Tier 2 |
+| **Area Under the Curve (AUC)** | 22 | 18 | 19 | 20 | — | Tier 2 (High ROI) |
+| **Applications of Derivatives (AOD)** | 26 | 14 | 11 | 17 | — | Tier 3 |
+| **Sets, Relations & Functions** | 21 | 16 | 14 | 17 | — | Tier 3 |
+| **Quadratic Equations** | 18 | 16 | 16 | 17 | — | Tier 3 |
+| **Statistics** | 16 | 8 | 16 | 13 | — | Tier 3 (High ROI) |
+| **Inverse Trigonometric Functions (ITF)** | 8 | 11 | 10 | 10 | — | Tier 3 |
+| **Trigonometric Ratios and Identities** | 7 | 6 | 12 | 8 | — | Tier 3 |
+| **Differentiation** | 15 | 4 | 2 | 7 | — | Tier 3 |
+| **Indefinite Integrals** | 8 | 8 | 7 | 8 | — | Tier 3 |
 
 ---
 
-## 2. Official 20 Chapters Checklist for JEE 2027
+## 2. 20 Chapters Checklist for JEE 2027
 
 *(Directly from the Vedantu Mathematics Blueprint Slide)*
 
-```
-┌───────────────────────────────────────────────┬────────────────────────────────────────────────────────┐
-│ Algebra, Foundations & Probability            │ Calculus & Geometry                                    │
-├───────────────────────────────────────────────┼────────────────────────────────────────────────────────┤
-│ [ ] Sets, Relations & Functions               │ [ ] Differentiation                                    │
-│ [ ] Complex Numbers & Quadratic Equations     │ [ ] Applications of Derivatives (AOD)                  │
-│ [ ] Matrices and Determinants                 │ [ ] Indefinite Integration                             │
-│ [ ] Permutations & Combinations               │ [ ] Definite Integration                               │
-│ [ ] Binomial Theorem                          │ [ ] Area Under the Curve (AUC)                         │
-│ [ ] Sequence & Series                         │ [ ] Differential Equations                             │
-│ [ ] Trigonometric Ratios and Identities       │ [ ] Coordinate Geometry (Straight Lines, Conics)       │
-│ [ ] Inverse Trigonometric Functions           │ [ ] Vector Algebra                                     │
-│ [ ] Limits, Continuity and Differentiability  │ [ ] Three-Dimensional Geometry (3D)                    │
-│ [ ] Statistics & Probability                  │ [ ] Problem Solving & Mixed Applications               │
-└───────────────────────────────────────────────┴────────────────────────────────────────────────────────┘
-```
+| Algebra, Foundations & Statistics | Calculus & Geometry |
+| --- | --- |
+| 1. Sets, Relations & Functions | 1. Applications of Derivatives (AOD) |
+| 2. Complex Numbers & Quadratic Equations | 2. Indefinite Integration |
+| 3. Matrices and Determinants | 3. Definite Integration |
+| 4. Permutations & Combinations | 4. Differentiation |
+| 5. Binomial Theorem | 5. Area Under the Curve (AUC) |
+| 6. Sequence & Series | 6. Differential Equations |
+| 7. Statistics | 7. Coordinate Geometry (Straight Line, Parabola, Ellipse, Hyperbola) |
+| 8. Probability | 8. Vector Algebra |
+| 9. Trigonometric Ratios and Identities | 9. Three-Dimensional Geometry (3D Geometry) |
+| 10. Inverse Trigonometric Functions |  |
+| 11. Limits, Continuity and Differentiability |  |
 
 ---
 
-## 3. Official Detailed Unit-Wise Mathematics Syllabus
+## 3. Detailed Unit-Wise Mathematics Syllabus (2026-based reference)
 
 ### Unit 1: Sets, Relations and Functions
 

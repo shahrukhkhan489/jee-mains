@@ -10,16 +10,16 @@ You can navigate the transcriptions either **by Subject** (combining official sy
 
 ### View 1: By Subject (The 3 JEE Core Disciplines)
 1. **[Mathematics.md](./Mathematics.md)**
-   - Complete 14-Unit Official Syllabus
+   - Complete 14-unit syllabus (2026-based reference)
    - 2024–2026 Shift-Wise Questions & Trend Analysis
-   - Official 20 Chapters Checklist
+   - 20-chapter checklist
    - High-Yield Scoring Strategy (Coordinate Geometry, Vectors, 3D, Matrices)
 2. **[Physics.md](./Physics.md)**
-   - Complete 19-Unit Official Syllabus
+   - Complete 19-unit syllabus (2026-based reference)
    - 2024–2026 Shift-Wise Questions & Trend Analysis
    - High-ROI Blueprint (Modern Physics, Heat & Thermodynamics, Current Electricity)
 3. **[Chemistry.md](./Chemistry.md)**
-   - Complete 19-Unit Official Syllabus (Physical: 1–8, Inorganic: 9–12, Organic: 13–19)
+   - Complete 19-unit syllabus (2026-based reference) (Physical: 1–8, Inorganic: 9–12, Organic: 13–19)
    - 2024–2026 Shift-Wise Questions & Trend Analysis
    - NCERT Line-by-Line Mastery Strategy (GOC, Coordination Compounds, Carbonyls)
 
@@ -34,7 +34,7 @@ You can navigate the transcriptions either **by Subject** (combining official sy
    - Complete 2024, 2025, and 2026 question tallies, averages, and questions-per-shift tiers.
 3. **[JEE_Main_Previous_Year_Question_Papers.md](./JEE_Main_Previous_Year_Question_Papers.md)**
    - Transcribed from `975100621-JEE-Main-Previous-Year-Question-Paper-With-Answer-Keys.pdf` (12 pages)
-   - Shift-wise download tables containing **174 active PDF download links** from 2025 down to 2002.
+   - Shift-wise download tables containing **173 paper links plus 1 mock-test link**, all verified against the PDF's embedded hyperlinks.
 
 ---
 

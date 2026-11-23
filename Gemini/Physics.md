@@ -2,7 +2,7 @@
 ### Syllabus, Chapter-Wise Question Analysis & Preparation Strategy
 
 > **Sources:**
-> - Official Detailed Unit-Wise Syllabus: `syllabus-jee-main-2027.pdf`
+> - Detailed unit-wise syllabus (2026-based reference): `syllabus-jee-main-2027.pdf`
 > - Question & Weightage Trend Analysis (2024–2026): Vedantu JEE Analysis Slides (`images/`)
 
 ---
@@ -10,6 +10,8 @@
 ## 1. Chapter-Wise Question & Weightage Analysis (2024 – 2026)
 
 ### High-Weightage Chapters (Tier 1 & Tier 2)
+
+> **Reading note:** per-shift values are transcribed only where the source slide prints them; "—" means the slide gives no per-shift figure for that chapter. Priority tiers are editorial additions, not source data.
 
 | Chapter Name | 2024 | 2025 | 2026 | Average Qs | Av. Qs per Shift | Priority Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -32,18 +34,18 @@
 | **Semiconductor / Electronic Devices** | 22 | 18 | 21 | 20 | **1** | Tier 2 (High ROI) |
 | **Dual Nature of Radiation** | 23 | 21 | 16 | 20 | **1** | Tier 2 (High ROI) |
 | **Gravitation** | 24 | 13 | 10 | 16 | **0 - 1** | Tier 3 |
-| **Alternating Current (AC)** | 26 | 9 | 10 | 15 | **0 - 1** | Tier 3 |
-| **Laws of Motion (NLM)** | 25 | 7 | 12 | 15 | **0 - 1** | Tier 3 |
-| **Electromagnetic Induction (EMI)** | 17 | 11 | 20 | 15 | **0 - 1** | Tier 3 |
-| **Simple Harmonic Motion (SHM)** | 15 | 13 | 15 | 14 | **0 - 1** | Tier 3 |
-| **Work, Power & Energy** | 17 | 10 | 13 | 14 | **0 - 1** | Tier 3 |
-| **Electromagnetic Waves** | 15 | 16 | 17 | 14 | **0 - 1** | Tier 3 (High ROI) |
+| **Alternating Current (AC)** | 26 | 9 | 10 | 15 | 1 | Tier 3 |
+| **Laws of Motion (NLM)** | 25 | 7 | 12 | 15 | 1 | Tier 3 |
+| **Electromagnetic Induction (EMI)** | 17 | 8 | 20 | 15 | **0 - 1** | Tier 3 |
+| **Simple Harmonic Motion (SHM)** | 15 | 11 | 15 | 14 | **0 - 1** | Tier 3 |
+| **Work, Power & Energy** | 17 | 13 | 13 | 14 | **0 - 1** | Tier 3 |
+| **Electromagnetic Waves** | 15 | 10 | 17 | 14 | **0 - 1** | Tier 3 (High ROI) |
 | **Capacitor** | 14 | 16 | 13 | 14 | **0 - 1** | Tier 3 |
-| **Waves (Sound & String)** | 9 | 11 | 10 | 10 | **0 - 1** | Tier 3 |
+| **Waves (Sound & String)** | 9 | 11 | 9 | 10 | **0 - 1** | Tier 3 |
 
 ---
 
-## 2. Official Detailed Unit-Wise Physics Syllabus
+## 2. Detailed Unit-Wise Physics Syllabus (2026-based reference)
 
 ### Unit 1: Units and Measurements
 

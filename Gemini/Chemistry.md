@@ -2,7 +2,7 @@
 ### Syllabus, Chapter-Wise Question Analysis & Preparation Strategy
 
 > **Sources:**
-> - Official Detailed Unit-Wise Syllabus: `syllabus-jee-main-2027.pdf`
+> - Detailed unit-wise syllabus (2026-based reference): `syllabus-jee-main-2027.pdf`
 > - Question & Weightage Trend Analysis (2024–2026): Vedantu JEE Analysis Slides (`images/`)
 
 ---
@@ -10,6 +10,8 @@
 ## 1. Chapter-Wise Question & Weightage Analysis (2024 – 2026)
 
 ### High-Weightage Chapters (Tier 1 & Tier 2)
+
+> **Reading note:** per-shift values are transcribed only where the source slide prints them; "—" means the slide gives no per-shift figure for that chapter. Priority tiers are editorial additions, not source data.
 
 | Chapter Name | 2024 | 2025 | 2026 | Average Qs | Av. Qs per Shift | Priority Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -29,20 +31,21 @@
 
 | Chapter Name | 2024 | 2025 | 2026 | Average Qs | Av. Qs per Shift | Priority Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Equilibrium (Physical & Ionic)** | 19 | 25 | 28 | 24 | **1** | Tier 2 |
-| **Chemical Kinetics & Nuclear Chemistry** | 20 | 25 | 27 | 24 | **1** | Tier 2 |
-| **Solutions** | 19 | 27 | 24 | 23 | **1** | Tier 2 |
-| **Biomolecules** | 22 | 20 | 19 | 20 | **1** | Tier 2 (High ROI) |
-| **Hydrocarbons** | 20 | 19 | 20 | 20 | **1** | Tier 2 |
-| **Haloalkanes and Haloarenes** | 25 | 19 | 17 | 20 | **1** | Tier 2 |
-| **p-Block Elements** | 25 | 13 | 21 | 20 | **1** | Tier 2 |
-| **Alcohols, Phenols and Ethers** | 23 | 13 | 13 | 16 | **0 - 1** | Tier 3 |
-| **Redox Reactions** | 16 | 12 | 10 | 10 | **0 - 1** | Tier 3 |
-| **Practical Organic Chemistry & Salt Analysis** | 8 | 12 | 8 | 8 | **0 - 1** | Tier 3 |
+| **Equilibrium (Physical & Ionic)** | 19 | 25 | 28 | 24 | — | Tier 2 |
+| **Chemical Kinetics & Nuclear Chemistry** | 20 | 25 | 27 | 24 | — | Tier 2 |
+| **Solutions** | 19 | 27 | 24 | 23 | — | Tier 2 |
+| **Biomolecules** | 22 | 20 | 19 | 20 | — | Tier 2 (High ROI) |
+| **Hydrocarbons** | 20 | 19 | 20 | 20 | — | Tier 2 |
+| **Haloalkanes and Haloarenes** | 25 | 19 | 17 | 20 | — | Tier 2 |
+| **p-Block Elements** | 25 | 13 | 21 | 20 | — | Tier 2 |
+| **Alcohols, Phenols and Ethers** | 23 | 13 | 13 | 16 | — | Tier 3 |
+| **Redox Reactions** | 16 | 6 | 8 | 10 | **0 - 1** | Tier 3 |
+| **Practical Organic Chemistry** | 16 | 6 | 20 | 14 | — | Tier 3 |
+| **Salt Analysis** | 8 | 12 | 6 | 8 | — | Tier 3 |
 
 ---
 
-## 2. Official Detailed Unit-Wise Chemistry Syllabus
+## 2. Detailed Unit-Wise Chemistry Syllabus (2026-based reference)
 
 ### Physical Chemistry (Units 1 – 8)
 #### Unit 1: Some Basic Concepts in Chemistry

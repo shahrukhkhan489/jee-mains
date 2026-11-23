@@ -1,7 +1,7 @@
-# Complete JEE Main 2027 Official Syllabus
+# JEE Main 2027 syllabus - reference transcription
 
 > **Source:** `syllabus-jee-main-2027.pdf`  
-> **Reference Note:** The official JEE Main 2027 syllabus is aligned with the latest officially available JEE Main curriculum from the National Testing Agency (NTA). This document provides the complete, unabridged, unit-wise syllabus across **Mathematics, Physics, and Chemistry**.
+> **Reference note:** the PDF itself states that the official JEE Main 2027 syllabus has not been released separately; its tables are based on the latest officially available JEE Main 2026 syllabus and are reproduced here as a 2027 reference. The text is complete and unabridged across **Mathematics, Physics, and Chemistry**.
 
 ---
 
