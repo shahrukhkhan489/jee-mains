@@ -1,6 +1,6 @@
 # JEE Main Chapter-Wise Question & Weightage Analysis (2024 – 2026)
 
-> **Primary Sources:** 14 slide screenshots in `images/` from the Vedantu JEE Analysis Master Lecture.  
+> **Primary Sources:** 14 slide screenshots in [`raw_sources/lecture_slides/`](../raw_sources/lecture_slides/) from the Vedantu JEE Analysis Master Lecture.  
 > **Coverage:** Consolidated, unobscured multi-year question frequency (2024, 2025, 2026), average questions per session, expected questions per shift, and high-yield scoring roadmaps across Physics, Chemistry, and Mathematics.
 
 ---
@@ -134,7 +134,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ## 5. Mathematics 20-Chapter Checklist
 
-*(Transcribed from slide `WhatsApp Image 2026-11-23 at 20.37.58 (1).jpeg`)*
+*(Transcribed from [`Slide_14_Mathematics_20_Chapters_Checklist.jpeg`](../raw_sources/lecture_slides/Slide_14_Mathematics_20_Chapters_Checklist.jpeg))*
 
 | Algebra, Foundations & Stats | Calculus & Geometry |
 | :--- | :--- |
@@ -154,9 +154,9 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ## 6. Appendix: Raw Slide-by-Slide Transcript & Audit Log
 
-> This appendix preserves the complete forensic transcript of each of the 14 individual video screenshots in `images/` (`WhatsApp Image 2026-11-23 at 20.37.51` to `20.37.58`), logging instructor occlusions and slide annotations for full verification.
+> This appendix preserves the complete forensic transcript of each of the 14 individual video screenshots in [`raw_sources/lecture_slides/`](../raw_sources/lecture_slides/) (`WhatsApp Image 2026-11-23 at 20.37.51` to `20.37.58`), logging instructor occlusions and slide annotations for full verification.
 
-### 1. `WhatsApp Image 2026-11-23 at 20.37.51.jpeg`
+### 1. [`Slide_01_Chemistry_Weightage_Part1.jpeg`](../raw_sources/lecture_slides/Slide_01_Chemistry_Weightage_Part1.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -180,7 +180,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 2. `WhatsApp Image 2026-11-23 at 20.37.52.jpeg`
+## 2. [`Slide_02_Chemistry_Weightage_Part2_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_02_Chemistry_Weightage_Part2_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -208,7 +208,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 3. `WhatsApp Image 2026-11-23 at 20.37.53.jpeg`
+## 3. [`Slide_04_Physics_Weightage_Part1_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_04_Physics_Weightage_Part1_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -236,7 +236,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 4. `WhatsApp Image 2026-11-23 at 20.37.53 (1).jpeg`
+## 4. [`Slide_03_Chemistry_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_03_Chemistry_Weightage_Part2_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -262,7 +262,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 5. `WhatsApp Image 2026-11-23 at 20.37.54.jpeg`
+## 5. [`Slide_05_Physics_Weightage_Part1_Full.jpeg`](../raw_sources/lecture_slides/Slide_05_Physics_Weightage_Part1_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -288,7 +288,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 6. `WhatsApp Image 2026-11-23 at 20.37.54 (1).jpeg`
+## 6. [`Slide_06_Physics_Weightage_Part2_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_06_Physics_Weightage_Part2_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -316,7 +316,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 7. `WhatsApp Image 2026-11-23 at 20.37.55.jpeg`
+## 7. [`Slide_07_Physics_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_07_Physics_Weightage_Part2_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -342,7 +342,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 8. `WhatsApp Image 2026-11-23 at 20.37.55 (1).jpeg`
+## 8. [`Slide_08_Mathematics_Weightage_Part1_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_08_Mathematics_Weightage_Part1_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -369,7 +369,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 9. `WhatsApp Image 2026-11-23 at 20.37.56.jpeg`
+## 9. [`Slide_09_Mathematics_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_09_Mathematics_Weightage_Part2_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -395,7 +395,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 10. `WhatsApp Image 2026-11-23 at 20.37.56 (1).jpeg`
+## 10. [`Slide_10_Mathematics_Weightage_Part2_Instructor.jpeg`](../raw_sources/lecture_slides/Slide_10_Mathematics_Weightage_Part2_Instructor.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -423,7 +423,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 11. `WhatsApp Image 2026-11-23 at 20.37.57.jpeg`
+## 11. [`Slide_11_Mathematics_Weightage_Part2_Annotated.jpeg`](../raw_sources/lecture_slides/Slide_11_Mathematics_Weightage_Part2_Annotated.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -449,7 +449,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 12. `WhatsApp Image 2026-11-23 at 20.37.57 (1).jpeg`
+## 12. [`Slide_12_Mathematics_Weightage_Part1_Handwritten.jpeg`](../raw_sources/lecture_slides/Slide_12_Mathematics_Weightage_Part1_Handwritten.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -476,7 +476,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 13. `WhatsApp Image 2026-11-23 at 20.37.58.jpeg`
+## 13. [`Slide_13_Mathematics_Weightage_Part1_Full.jpeg`](../raw_sources/lecture_slides/Slide_13_Mathematics_Weightage_Part1_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -501,7 +501,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 14. `WhatsApp Image 2026-11-23 at 20.37.58 (1).jpeg`
+## 14. [`Slide_14_Mathematics_20_Chapters_Checklist.jpeg`](../raw_sources/lecture_slides/Slide_14_Mathematics_20_Chapters_Checklist.jpeg)
 
 **Slide title:** Maths Chapters for JEE 2027
 

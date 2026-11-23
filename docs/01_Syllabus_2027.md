@@ -1,6 +1,6 @@
 # JEE Main Official Syllabus Reference (2026/2027)
 
-> **Source Document:** `syllabus-jee-main-2027.pdf` (26 pages)  
+> **Source Document:** [`raw_sources/JEE_Main_2027_Syllabus_Official_Reference.pdf`](../raw_sources/JEE_Main_2027_Syllabus_Official_Reference.pdf) (26 pages)  
 > **Curriculum Status:** Complete, unabridged unit-wise syllabus based on the latest National Testing Agency (NTA) guidelines across **Mathematics, Physics, and Chemistry** (52 total units).
 
 ---

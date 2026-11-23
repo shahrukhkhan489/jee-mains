@@ -8,11 +8,12 @@
 
 ```
 Jee Mains/
-├── docs/                                # Core documentation & curriculum guides
-│   ├── 01_Syllabus_2027.md              # Full 52-unit syllabus (Math, Physics, Chemistry)
+├── README.md                            # 🌟 Master Guide: Unified syllabus, weightage & papers hub
+├── docs/                                # 📚 Clean, structured curriculum & analysis guides
+│   ├── 01_Syllabus_2027.md              # Full 52-unit syllabus tables (Math, Physics, Chemistry)
 │   ├── 02_Chapterwise_Weightage_Analysis.md # 2024-2026 question trends, tiers & slide audit
-│   └── 03_Question_Papers_Catalog.md    # Shift-wise directory with local & web links
-├── papers/                              # 173 downloaded question papers (792 MB)
+│   └── 03_Question_Papers_Catalog.md    # Shift-by-shift catalog with local & web links
+├── papers/                              # 📁 173 downloaded question papers (792 MB)
 │   ├── 2025_Jan/                        # 10 shift-wise papers (Jan 22 - Jan 29)
 │   ├── 2024_Apr/ & 2024_Jan/            # 20 shift-wise papers
 │   ├── 2023_Apr/ & 2023_Jan/            # 24 shift-wise papers
@@ -22,12 +23,15 @@ Jee Mains/
 │   ├── 2019_Jan/ & 2019_Apr/            # 16 shift-wise papers
 │   ├── 2018/ to 2012/                   # 29 shift-wise & online papers
 │   ├── 2011-2002/                       # 10 annual original papers
-│   └── README.md                        # Shift catalog & file size index
-├── scripts/                             # Utility & automation scripts
-│   └── download_papers.py               # Multi-threaded batch PDF downloader
-├── images/                              # 14 raw lecture slides (Vedantu analysis)
-├── syllabus-jee-main-2027.pdf           # Original 26-page syllabus PDF
-└── 975100621-JEE-Main-Previous-Year...  # Original 12-page MathonGo index PDF
+│   └── README.md                        # Local shift catalog & file size index
+├── raw_sources/                         # 📦 Preserved original raw inputs (properly named)
+│   ├── JEE_Main_2027_Syllabus_Official_Reference.pdf # Original 26-page syllabus PDF
+│   ├── JEE_Main_Previous_Year_Papers_Index_MathonGo.pdf # Original 12-page MathonGo PDF
+│   └── lecture_slides/                  # 14 lecture screenshots (Slide_01 to Slide_14)
+└── scripts/                             # ⚙️ Automation & organization utilities
+    ├── download_papers.py               # Multi-threaded batch PDF downloader
+    ├── organize_docs.py                 # Document formatting & index generator
+    └── rename_raw_sources.py            # Raw files reorganization utility
 ```
 
 ---
@@ -72,3 +76,12 @@ All 173 shift-wise question papers are saved locally on disk under `papers/` wit
 
 👉 *For individual shift links and online mirrors, view [docs/03_Question_Papers_Catalog.md](./docs/03_Question_Papers_Catalog.md)*
 
+---
+
+## 4. Preserved Raw Sources Archive
+
+| Resource | Proper Clean Name | Description |
+| :--- | :--- | :--- |
+| **Official Syllabus PDF** | [`JEE_Main_2027_Syllabus_Official_Reference.pdf`](./raw_sources/JEE_Main_2027_Syllabus_Official_Reference.pdf) | Original 26-page Vedantu syllabus PDF |
+| **PYQ Link Index PDF** | [`JEE_Main_Previous_Year_Papers_Index_MathonGo.pdf`](./raw_sources/JEE_Main_Previous_Year_Papers_Index_MathonGo.pdf) | Original 12-page MathonGo index PDF |
+| **Lecture Video Slides** | [`raw_sources/lecture_slides/`](./raw_sources/lecture_slides/) | 14 original screenshots renamed by subject & slide topic |
