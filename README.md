@@ -12,7 +12,8 @@ Jee Mains/
 ├── docs/                                # 📚 Clean, structured curriculum & analysis guides
 │   ├── 01_Syllabus_2027.md              # Full 52-unit syllabus tables (Math, Physics, Chemistry)
 │   ├── 02_Chapterwise_Weightage_Analysis.md # 2024-2026 question trends, tiers & slide audit
-│   └── 03_Question_Papers_Catalog.md    # Shift-by-shift catalog with local & web links
+│   ├── 03_Question_Papers_Catalog.md    # Shift-by-shift catalog with local & web links
+│   └── Chapters_Not_Studied.md          # Personal checklist: chapters not yet studied
 ├── papers/                              # 📁 173 downloaded question papers (792 MB)
 │   ├── 2025_Jan/                        # 10 shift-wise papers (Jan 22 - Jan 29)
 │   ├── 2024_Apr/ & 2024_Jan/            # 20 shift-wise papers
