@@ -21,52 +21,52 @@ chapter,Physics,"Work, Power & Energy",8,5,4,3,7,3,3,6,2,1,9,4,5,4,4,7,8,19,27,4
 chapter,Physics,Electromagnetic Waves,3,1,1,0,1,0,0,1,1,1,5,4,8,2,3,4,3,16,7,32,21,30,9,4
 chapter,Physics,Capacitor,2,2,0,2,0,2,1,0,2,1,5,7,6,4,2,3,8,19,15,26,33,23,20,11
 chapter,Physics,Waves (Sound & String),2,0,0,1,2,1,2,2,0,1,5,5,4,2,4,2,4,14,8,9,11,9,8,2
-chapter,Chemistry,Basics of Organic Chemistry (GOC),6,1,0,6,2,3,1,2,1,0,4,8,4,2,2,3,4,9,16,13,18,19,27,9
-chapter,Chemistry,Coordination Compounds,4,4,6,4,3,1,4,2,1,1,10,6,11,10,6,4,7,40,27,39,43,45,35,14
-chapter,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",3,6,4,3,2,3,3,3,1,4,7,9,8,6,6,4,5,17,17,34,23,27,26,11
-chapter,Chemistry,Chemical Bonding & Molecular Structure,7,5,6,6,4,3,2,2,1,3,15,19,16,6,7,6,16,20,25,45,30,43,48,15
-chapter,Chemistry,Electrochemistry,6,3,4,2,3,2,1,3,0,1,5,3,8,2,3,3,3,16,8,18,24,26,17,10
-chapter,Chemistry,Thermodynamics,5,11,4,4,5,4,3,2,4,1,9,8,9,7,5,7,10,28,27,47,37,46,28,14
-chapter,Chemistry,d- and f-Block Elements,3,4,4,4,4,1,1,2,0,2,6,5,4,0,3,1,4,13,15,23,22,22,27,5
-chapter,Chemistry,Compounds Containing Nitrogen (Amines),3,3,2,3,0,1,0,0,0,0,6,3,3,1,2,1,1,11,4,19,21,9,16,3
-chapter,Chemistry,Some Basic Concepts of Chemistry (Mole),7,3,3,3,2,4,0,2,4,1,8,5,5,6,5,6,9,27,30,34,51,58,30,29
-chapter,Chemistry,Structure of Atom,4,4,5,3,2,2,0,1,0,4,5,8,6,3,3,4,7,21,11,30,36,29,43,15
-chapter,Chemistry,p-Block Elements,2,3,5,6,1,1,3,0,0,3,4,2,11,7,6,4,6,17,16,45,34,30,29,10
-chapter,Chemistry,Periodic Table & Periodicity,0,1,2,0,3,1,0,1,2,0,5,3,4,1,1,0,2,6,10,10,6,12,15,7
-chapter,Chemistry,Equilibrium (Physical & Ionic),2,8,5,6,2,1,3,1,1,2,7,9,6,2,4,6,10,23,17,31,19,29,16,10
-chapter,Chemistry,Chemical Kinetics & Nuclear Chemistry,6,3,3,5,4,3,1,1,2,1,4,4,5,2,3,3,5,12,11,22,15,20,17,10
-chapter,Chemistry,Solutions,5,2,7,4,2,2,3,3,2,0,10,7,7,4,6,3,8,31,20,47,33,43,22,12
-chapter,Chemistry,Biomolecules,1,0,3,0,0,0,1,1,1,1,6,5,2,3,2,3,3,13,12,32,25,17,19,9
-chapter,Chemistry,Hydrocarbons,1,2,3,1,3,3,3,1,3,1,6,5,5,1,5,3,4,12,9,18,13,12,14,4
-chapter,Chemistry,Haloalkanes and Haloarenes,0,0,2,4,1,0,1,1,0,0,3,1,3,2,2,1,2,4,2,4,1,11,7,2
-chapter,Chemistry,"Alcohols, Phenols and Ethers",0,2,2,1,0,1,2,0,1,4,4,11,8,0,0,1,3,7,4,13,13,7,11,2
-chapter,Chemistry,Redox Reactions,2,2,0,1,2,0,0,0,0,0,2,5,4,1,2,3,6,5,4,15,10,11,22,4
-chapter,Chemistry,Practical Organic Chemistry,0,0,1,0,0,0,0,0,1,0,1,2,1,1,1,1,2,5,9,15,8,11,16,4
-chapter,Chemistry,Salt Analysis,2,3,0,1,0,1,0,0,2,0,1,1,1,3,2,2,3,1,3,11,9,15,10,2
-chapter,Mathematics,"Coordinate Geometry (Lines, Circles, Conics)",10,10,14,19,7,7,7,6,5,3,34,22,25,16,16,16,23,91,61,109,100,92,106,52
-chapter,Mathematics,Matrices & Determinants,0,0,1,1,1,0,2,0,1,1,6,6,6,3,1,2,3,4,9,31,22,23,24,12
-chapter,Mathematics,Three-Dimensional Geometry (3D),0,4,3,0,1,0,0,1,0,1,6,9,3,4,3,3,2,15,9,30,30,49,15,3
-chapter,Mathematics,Sequence & Series,3,6,4,6,1,3,1,1,1,0,10,5,6,3,3,4,6,21,20,21,20,29,24,10
-chapter,Mathematics,Definite Integration,5,7,5,4,4,3,2,1,1,1,8,11,9,6,6,5,10,35,27,56,41,49,47,16
-chapter,Mathematics,Vector Algebra,3,6,5,1,2,2,1,2,2,1,8,7,2,3,3,3,6,17,14,33,29,35,31,11
-chapter,Mathematics,Differential Equations,3,2,4,4,1,2,2,1,2,2,5,9,6,5,7,3,7,20,25,49,41,38,41,19
-chapter,Mathematics,"Limits, Continuity & Differentiability (LCD)",2,1,1,3,1,3,1,1,1,1,5,1,8,4,4,1,3,16,18,35,18,12,23,6
-chapter,Mathematics,Probability,2,3,3,3,1,2,2,2,1,1,3,5,3,1,2,5,6,12,14,29,23,20,22,8
-chapter,Mathematics,Complex Numbers,1,1,1,1,1,0,1,0,1,2,3,4,4,1,3,1,2,6,7,9,5,6,7,1
-chapter,Mathematics,Permutations & Combinations (P&C),0,2,2,1,1,1,0,1,1,1,3,3,1,1,0,3,1,4,5,9,7,16,11,5
-chapter,Mathematics,Binomial Theorem,3,0,2,0,0,1,0,0,0,1,2,4,4,3,2,2,4,11,8,12,16,24,11,4
+chapter,Chemistry,Basics of Organic Chemistry (GOC),6,1,0,6,2,3,1,2,1,0,4,8,4,2,2,3,4,9,17,15,19,19,29,9
+chapter,Chemistry,Coordination Compounds,4,4,6,4,3,1,4,2,1,1,10,6,11,10,6,4,7,42,29,42,44,47,36,14
+chapter,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",3,6,4,3,2,3,3,3,1,4,7,9,8,6,6,4,5,18,17,36,23,27,28,12
+chapter,Chemistry,Chemical Bonding & Molecular Structure,7,5,6,6,4,3,2,2,1,3,15,19,16,6,7,6,16,21,27,48,34,44,48,15
+chapter,Chemistry,Electrochemistry,6,3,4,2,3,2,1,3,0,1,5,3,8,2,3,3,3,18,10,19,24,26,17,11
+chapter,Chemistry,Thermodynamics,5,11,4,4,5,4,3,2,4,1,9,8,9,7,5,7,10,29,28,47,37,48,28,16
+chapter,Chemistry,d- and f-Block Elements,3,4,4,4,4,1,1,2,0,2,6,5,4,0,3,1,4,15,16,28,25,24,30,7
+chapter,Chemistry,Compounds Containing Nitrogen (Amines),3,3,2,3,0,1,0,0,0,0,6,3,3,1,2,1,1,13,5,25,22,10,18,3
+chapter,Chemistry,Some Basic Concepts of Chemistry (Mole),7,3,3,3,2,4,0,2,4,1,8,5,5,6,5,6,9,27,31,37,53,60,31,29
+chapter,Chemistry,Structure of Atom,4,4,5,3,2,2,0,1,0,4,5,8,6,3,3,4,7,22,15,33,36,31,45,15
+chapter,Chemistry,p-Block Elements,2,3,5,6,1,1,3,0,0,3,4,2,11,7,6,4,6,19,20,48,34,30,30,10
+chapter,Chemistry,Periodic Table & Periodicity,0,1,2,0,3,1,0,1,2,0,5,3,4,1,1,0,2,7,13,13,10,14,15,8
+chapter,Chemistry,Equilibrium (Physical & Ionic),2,8,5,6,2,1,3,1,1,2,7,9,6,2,4,6,10,24,18,33,21,32,18,12
+chapter,Chemistry,Chemical Kinetics & Nuclear Chemistry,6,3,3,5,4,3,1,1,2,1,4,4,5,2,3,3,5,12,13,23,17,22,20,12
+chapter,Chemistry,Solutions,5,2,7,4,2,2,3,3,2,0,10,7,7,4,6,3,8,31,21,49,33,43,22,13
+chapter,Chemistry,Biomolecules,1,0,3,0,0,0,1,1,1,1,6,5,2,3,2,3,3,13,13,33,26,21,20,10
+chapter,Chemistry,Hydrocarbons,1,2,3,1,3,3,3,1,3,1,6,5,5,1,5,3,4,12,9,19,14,13,18,4
+chapter,Chemistry,Haloalkanes and Haloarenes,0,0,2,4,1,0,1,1,0,0,3,1,3,2,2,1,2,4,3,5,1,11,8,3
+chapter,Chemistry,"Alcohols, Phenols and Ethers",0,2,2,1,0,1,2,0,1,4,4,11,8,0,0,1,3,7,4,15,14,7,15,2
+chapter,Chemistry,Redox Reactions,2,2,0,1,2,0,0,0,0,0,2,5,4,1,2,3,6,5,6,19,10,13,25,4
+chapter,Chemistry,Practical Organic Chemistry,0,0,1,0,0,0,0,0,1,0,1,2,1,1,1,1,2,5,9,19,9,11,18,4
+chapter,Chemistry,Salt Analysis,2,3,0,1,0,1,0,0,2,0,1,1,1,3,2,2,3,1,3,14,9,15,11,3
+chapter,Mathematics,"Coordinate Geometry (Lines, Circles, Conics)",11,10,14,19,7,7,7,6,5,3,34,25,26,17,16,17,23,92,63,111,100,93,108,55
+chapter,Mathematics,Matrices & Determinants,0,0,1,2,2,1,3,1,2,1,7,7,7,3,1,2,4,6,10,34,26,27,28,12
+chapter,Mathematics,Three-Dimensional Geometry (3D),0,4,3,0,1,1,0,1,0,1,6,9,3,4,3,3,2,15,9,30,30,49,15,3
+chapter,Mathematics,Sequence & Series,6,6,5,6,1,3,1,1,1,1,10,5,9,4,4,4,8,27,22,28,23,31,28,12
+chapter,Mathematics,Definite Integration,5,7,5,4,4,3,2,1,1,1,8,11,9,6,6,6,10,35,27,56,41,49,47,16
+chapter,Mathematics,Vector Algebra,5,8,8,3,3,3,2,2,2,1,8,7,2,3,3,3,6,18,14,34,29,37,31,12
+chapter,Mathematics,Differential Equations,3,2,4,4,1,2,2,1,2,2,5,10,6,5,7,3,7,20,25,51,41,38,41,19
+chapter,Mathematics,"Limits, Continuity & Differentiability (LCD)",3,1,1,3,1,3,1,1,1,1,5,1,8,4,4,1,4,17,19,37,20,14,25,7
+chapter,Mathematics,Probability,2,3,3,3,1,2,2,2,1,1,3,5,3,1,2,5,6,13,15,29,23,20,23,8
+chapter,Mathematics,Complex Numbers,1,2,1,1,1,0,1,0,1,2,3,4,4,1,3,1,3,7,10,11,6,7,7,1
+chapter,Mathematics,Permutations & Combinations (P&C),3,3,2,1,1,1,1,1,1,1,3,5,4,3,2,4,5,11,14,22,17,40,15,10
+chapter,Mathematics,Binomial Theorem,3,1,2,1,0,1,0,0,0,1,4,4,5,3,2,2,5,15,11,22,17,33,16,5
 chapter,Mathematics,Area Under the Curve (AUC),1,1,1,2,1,2,1,0,1,1,4,4,3,2,2,4,3,10,8,22,20,30,25,15
-chapter,Mathematics,Applications of Derivatives (AOD),2,2,3,2,5,3,1,2,3,1,4,4,7,6,9,6,5,33,26,55,52,33,38,8
-chapter,Mathematics,"Sets, Relations & Functions",1,4,4,3,3,0,7,7,6,6,19,20,16,10,5,6,11,33,31,64,61,78,48,23
-chapter,Mathematics,Quadratic Equations,5,3,2,5,2,1,1,1,1,0,4,2,3,2,1,1,9,19,14,22,15,17,16,7
-chapter,Mathematics,Statistics,1,3,2,1,1,0,1,1,1,1,4,4,6,4,4,3,7,15,14,21,17,26,15,6
+chapter,Mathematics,Applications of Derivatives (AOD),2,2,3,3,5,3,1,2,3,1,5,5,9,7,9,6,7,35,29,56,52,35,39,8
+chapter,Mathematics,"Sets, Relations & Functions",1,4,4,3,3,0,7,7,6,6,20,20,16,10,5,6,11,37,33,69,65,80,51,25
+chapter,Mathematics,Quadratic Equations,6,3,2,5,2,1,1,1,1,0,4,2,4,2,1,1,9,19,14,26,18,17,16,7
+chapter,Mathematics,Statistics,2,3,2,2,1,1,1,1,1,1,4,4,6,4,4,3,7,15,14,21,17,26,15,6
 chapter,Mathematics,Inverse Trigonometric Functions (ITF),0,1,0,1,0,0,0,0,0,0,0,4,3,2,0,1,2,9,4,10,13,4,6,4
-chapter,Mathematics,Trigonometric Ratios and Identities,4,5,6,4,3,3,2,0,1,2,9,10,11,2,7,5,18,41,26,54,38,27,23,12
-chapter,Mathematics,Differentiation,0,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,1,2,1,1,1,0,1,0
+chapter,Mathematics,Trigonometric Ratios and Identities,6,5,6,5,3,3,2,0,1,2,9,11,11,2,7,5,18,44,26,56,40,27,24,12
+chapter,Mathematics,Differentiation,0,1,1,0,1,0,0,1,0,1,1,0,1,0,0,1,1,3,1,1,2,1,2,0
 chapter,Mathematics,Indefinite Integrals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 unclassified,Physics,Unclassified,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,2,8,4,5,6,3
-unclassified,Chemistry,Unclassified,4,4,4,7,4,3,2,1,2,1,17,16,12,13,9,17,24,125,90,185,139,149,104,49
-unclassified,Mathematics,Unclassified,29,13,11,14,13,7,3,2,1,3,12,16,24,12,12,15,21,66,59,108,91,112,66,28
+unclassified,Chemistry,Unclassified,4,4,4,7,4,3,2,1,2,1,17,16,12,13,9,17,24,109,60,130,115,123,69,34
+unclassified,Mathematics,Unclassified,15,8,7,7,11,3,0,1,0,2,7,7,11,7,9,12,9,32,32,54,60,62,38,13
 outside_list,Chemistry,Outside current chapter list: Chemistry in Everyday Life,1,0,0,0,0,0,0,0,0,0,2,2,2,2,1,0,0,2,3,8,6,5,0,0
 outside_list,Chemistry,Outside current chapter list: Environmental Chemistry,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,3,1,6,1,1,0,0
 outside_list,Chemistry,Outside current chapter list: Hydrogen and s-Block,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2,1,3,1,6,6,1,0

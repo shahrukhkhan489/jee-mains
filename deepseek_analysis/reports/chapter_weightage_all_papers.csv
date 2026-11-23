@@ -21,52 +21,52 @@ chapter,Physics,Wave Optics,123,2.35,0.78,0.71,109,19
 chapter,Physics,Waves (Sound & String),98,1.87,0.62,0.57,84,20
 chapter,Physics,Electromagnetic Induction (EMI),88,1.68,0.56,0.51,65,21
 chapter,Physics,Alternating Current (AC),86,1.64,0.54,0.5,69,22
-chapter,Chemistry,Chemical Bonding & Molecular Structure,350,8.48,2.21,2.02,159,1
-chapter,Chemistry,Some Basic Concepts of Chemistry (Mole),332,8.04,2.1,1.92,147,2
-chapter,Chemistry,Coordination Compounds,327,7.92,2.07,1.89,151,3
-chapter,Chemistry,Thermodynamics,325,7.87,2.05,1.88,163,4
-chapter,Chemistry,Solutions,283,6.86,1.79,1.64,143,5
-chapter,Chemistry,Structure of Atom,246,5.96,1.55,1.42,142,6
-chapter,Chemistry,p-Block Elements,245,5.94,1.55,1.42,134,7
-chapter,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",232,5.62,1.47,1.34,128,8
-chapter,Chemistry,Equilibrium (Physical & Ionic),220,5.33,1.39,1.27,131,9
-chapter,Chemistry,d- and f-Block Elements,175,4.24,1.11,1.01,122,10
-chapter,Chemistry,Electrochemistry,171,4.14,1.08,0.99,126,11
-chapter,Chemistry,Chemical Kinetics & Nuclear Chemistry,162,3.93,1.02,0.94,137,12
-chapter,Chemistry,Basics of Organic Chemistry (GOC),160,3.88,1.01,0.92,109,13
-chapter,Chemistry,Biomolecules,159,3.85,1.0,0.92,128,14
-chapter,Chemistry,Hydrocarbons,132,3.2,0.83,0.76,95,15
-chapter,Chemistry,Compounds Containing Nitrogen (Amines),112,2.71,0.71,0.65,83,16
-chapter,Chemistry,Redox Reactions,101,2.45,0.64,0.58,79,17
-chapter,Chemistry,"Alcohols, Phenols and Ethers",97,2.35,0.61,0.56,71,18
-chapter,Chemistry,Periodic Table & Periodicity,92,2.23,0.58,0.53,75,19
-chapter,Chemistry,Practical Organic Chemistry,79,1.91,0.5,0.46,73,20
-chapter,Chemistry,Salt Analysis,73,1.77,0.46,0.42,58,21
-chapter,Chemistry,Haloalkanes and Haloarenes,54,1.31,0.34,0.31,50,22
-chapter,Mathematics,"Coordinate Geometry (Lines, Circles, Conics)",851,18.76,5.38,4.92,173,1
-chapter,Mathematics,"Sets, Relations & Functions",466,10.27,2.94,2.69,171,2
-chapter,Mathematics,Definite Integration,359,7.91,2.27,2.08,171,3
-chapter,Mathematics,Trigonometric Ratios and Identities,313,6.9,1.98,1.81,152,4
-chapter,Mathematics,Applications of Derivatives (AOD),310,6.83,1.96,1.79,152,5
-chapter,Mathematics,Differential Equations,298,6.57,1.88,1.72,155,6
-chapter,Mathematics,Vector Algebra,227,5.0,1.43,1.31,152,7
-chapter,Mathematics,Sequence & Series,208,4.58,1.31,1.2,138,8
-chapter,Mathematics,Three-Dimensional Geometry (3D),191,4.21,1.21,1.1,128,9
-chapter,Mathematics,Probability,173,3.81,1.09,1.0,141,10
-chapter,Mathematics,"Limits, Continuity & Differentiability (LCD)",169,3.72,1.07,0.98,123,11
-chapter,Mathematics,Area Under the Curve (AUC),163,3.59,1.03,0.94,134,12
-chapter,Mathematics,Matrices & Determinants,159,3.5,1.0,0.92,124,13
-chapter,Mathematics,Statistics,158,3.48,1.0,0.91,143,14
-chapter,Mathematics,Quadratic Equations,153,3.37,0.97,0.88,113,15
-chapter,Mathematics,Binomial Theorem,114,2.51,0.72,0.66,103,16
-chapter,Mathematics,Permutations & Combinations (P&C),79,1.74,0.5,0.46,71,17
-chapter,Mathematics,Complex Numbers,68,1.5,0.43,0.39,66,18
-chapter,Mathematics,Inverse Trigonometric Functions (ITF),64,1.41,0.4,0.37,55,19
-chapter,Mathematics,Differentiation,14,0.31,0.09,0.08,14,20
+chapter,Chemistry,Chemical Bonding & Molecular Structure,361,8.34,2.28,2.09,162,1
+chapter,Chemistry,Some Basic Concepts of Chemistry (Mole),341,7.88,2.15,1.97,149,2
+chapter,Chemistry,Coordination Compounds,338,7.81,2.14,1.95,154,3
+chapter,Chemistry,Thermodynamics,331,7.65,2.09,1.91,165,4
+chapter,Chemistry,Solutions,287,6.63,1.81,1.66,145,5
+chapter,Chemistry,Structure of Atom,258,5.96,1.63,1.49,148,6
+chapter,Chemistry,p-Block Elements,255,5.89,1.61,1.47,136,7
+chapter,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",238,5.5,1.5,1.38,128,8
+chapter,Chemistry,Equilibrium (Physical & Ionic),233,5.38,1.47,1.35,140,9
+chapter,Chemistry,d- and f-Block Elements,193,4.46,1.22,1.12,129,10
+chapter,Chemistry,Electrochemistry,177,4.09,1.12,1.02,131,11
+chapter,Chemistry,Chemical Kinetics & Nuclear Chemistry,174,4.02,1.1,1.01,149,12
+chapter,Chemistry,Biomolecules,168,3.88,1.06,0.97,134,13
+chapter,Chemistry,Basics of Organic Chemistry (GOC),166,3.84,1.05,0.96,110,14
+chapter,Chemistry,Hydrocarbons,139,3.21,0.88,0.8,96,15
+chapter,Chemistry,Compounds Containing Nitrogen (Amines),125,2.89,0.79,0.72,93,16
+chapter,Chemistry,Redox Reactions,112,2.59,0.71,0.65,84,17
+chapter,Chemistry,Periodic Table & Periodicity,106,2.45,0.67,0.61,89,18
+chapter,Chemistry,"Alcohols, Phenols and Ethers",104,2.4,0.66,0.6,75,19
+chapter,Chemistry,Practical Organic Chemistry,86,1.99,0.54,0.5,79,20
+chapter,Chemistry,Salt Analysis,78,1.8,0.49,0.45,63,21
+chapter,Chemistry,Haloalkanes and Haloarenes,58,1.34,0.37,0.34,54,22
+chapter,Mathematics,"Coordinate Geometry (Lines, Circles, Conics)",869,17.85,5.49,5.02,173,1
+chapter,Mathematics,"Sets, Relations & Functions",489,10.05,3.09,2.83,171,2
+chapter,Mathematics,Definite Integration,360,7.4,2.27,2.08,171,3
+chapter,Mathematics,Applications of Derivatives (AOD),327,6.72,2.07,1.89,157,4
+chapter,Mathematics,Trigonometric Ratios and Identities,325,6.68,2.05,1.88,153,5
+chapter,Mathematics,Differential Equations,301,6.18,1.9,1.74,155,6
+chapter,Mathematics,Sequence & Series,246,5.05,1.55,1.42,151,7
+chapter,Mathematics,Vector Algebra,244,5.01,1.54,1.41,154,8
+chapter,Mathematics,Three-Dimensional Geometry (3D),192,3.94,1.21,1.11,129,9
+chapter,Mathematics,Matrices & Determinants,187,3.84,1.18,1.08,132,10
+chapter,Mathematics,"Limits, Continuity & Differentiability (LCD)",182,3.74,1.15,1.05,129,11
+chapter,Mathematics,Probability,176,3.62,1.11,1.02,143,12
+chapter,Mathematics,Permutations & Combinations (P&C),170,3.49,1.07,0.98,145,13
+chapter,Mathematics,Area Under the Curve (AUC),163,3.35,1.03,0.94,134,14
+chapter,Mathematics,Quadratic Equations,162,3.33,1.02,0.94,118,15
+chapter,Mathematics,Statistics,161,3.31,1.02,0.93,144,16
+chapter,Mathematics,Binomial Theorem,153,3.14,0.97,0.88,129,17
+chapter,Mathematics,Complex Numbers,78,1.6,0.49,0.45,74,18
+chapter,Mathematics,Inverse Trigonometric Functions (ITF),64,1.31,0.4,0.37,55,19
+chapter,Mathematics,Differentiation,19,0.39,0.12,0.11,19,20
 chapter,Mathematics,Indefinite Integrals,0,0.0,0.0,0.0,0,21
 unclassified,Physics,Unclassified (insufficient text),34,0.64,0.21,0.2,,
-unclassified,Chemistry,Unclassified (insufficient text),981,18.6,6.2,5.67,,
-unclassified,Mathematics,Unclassified (insufficient text),738,13.99,4.66,4.27,,
+unclassified,Chemistry,Unclassified (insufficient text),780,14.79,4.93,4.51,,
+unclassified,Mathematics,Unclassified (insufficient text),407,7.72,2.57,2.35,,
 outside_list,Chemistry,Outside current chapter list: Polymers,53,1.0,0.33,0.31,,
 outside_list,Chemistry,Outside current chapter list: Surface Chemistry,35,0.66,0.22,0.2,,
 outside_list,Chemistry,Outside current chapter list: Chemistry in Everyday Life,34,0.64,0.21,0.2,,

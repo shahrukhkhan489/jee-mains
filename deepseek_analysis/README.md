@@ -38,10 +38,10 @@ python3 deepseek_analysis/build_report.py
 
 ## Coverage (read this before using the table)
 
-- Overall: **13,905 / 15,825 (87.9%)** questions placed in a chapter; 1,753 unclassified (11.1%); 167 outside the 65-chapter list (1.1%).
-- Physics: 99.4% classified. Mathematics: 86.0%. **Chemistry: 78.2%.**
+- Overall: **14,437 / 15,825 (91.2%)** questions placed in a chapter; 1,221 unclassified (7.7%); 167 outside the 65-chapter list (1.1%).
+- Physics: 99.4% classified. Mathematics: 92.3%. **Chemistry: 82.0%.**
 - Chemistry's remaining unclassified share is mostly organic reaction-scheme questions whose reagents/products are images, so organic chapters (GOC, Hydrocarbons, Haloalkanes, Alcohols, Amines) are **under-counted**. Cross-check with the lecture weightage in `docs/02_Chapterwise_Weightage_Analysis.md`.
-- **Second pass:** a parallel LLM classified **270** of the 1,073 text-rich unclassified questions (Physics 160, Chemistry 110); a 12-question sample was 12/12 correct. The other **803** text-rich questions were not processed after the classifier agents failed repeatedly; they remain in the Unclassified row rather than being guessed.
+- **Second pass:** all **1,073** text-rich unclassified questions were processed by parallel LLM classifiers. **802** were placed (Physics 160, Chemistry 311, Mathematics 331); **271** returned `NO_SIGNAL`. The remaining **950** questions are image/reaction-scheme, sparse, or formula-only and cannot be reliably classified from the PDF text layer.
 - Outside-list topics found in old papers but absent from the lecture list: polymers, surface chemistry, chemistry in everyday life, environmental chemistry, hydrogen/s-block, solid state. They are reported separately rather than forced into a wrong chapter.
 - Definite and indefinite integrals share the `∫` glyph in extracted text; integral-symbol-only questions are counted under Definite Integration. The Indefinite row therefore shows only explicit wording.
 
@@ -54,7 +54,7 @@ The pre-analysis Markdown state is preserved byte-for-byte in:
 ## Validation
 
 - Parser: 173/173 papers, 15,825 questions, 0 missing blocks, all answer-key boundaries found.
-- Assignment audit: all 15,825 rows are in `question_chapter_map.csv`; a 15-question keyword spot-check gave 14 clear matches and 1 defensible alternative, and a 12-question LLM-label sample was 12/12 correct.
+- Assignment audit: all 15,825 rows are in `question_chapter_map.csv`; a 15-question keyword spot-check gave 14 clear matches and 1 defensible alternative, a 12-question LLM-label sample was 12/12 correct, and a 10-question sample of the late labels gave 9 clear matches plus 1 acceptable alternative.
 - Accounting: each subject's classified + unclassified + outside counts equal its 5,275 parsed questions; the CSV totals equal 15,825.
 
 ## Notes
