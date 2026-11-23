@@ -9,6 +9,13 @@
 ```
 Jee Mains/
 ├── README.md                            # 🌟 Master Guide: Unified syllabus, weightage & papers hub
+├── final_analysis/                      # ⭐ Final consolidated analysis (start here)
+│   ├── README.md                        # One-page verdict + file map
+│   ├── 01_Priority_and_Weightage.md     # Hybrid current-priority table
+│   ├── 02_Historical_Evidence.md        # 173-paper evidence & limits
+│   ├── 03_2025_Shift_Analysis.md        # 2025 shift breakdown
+│   ├── 04_Study_Plan.md                 # Study order + unstudied chapters
+│   └── 05_Methodology_and_Provenance.md # Sources, corrections, archive
 ├── docs/                                # 📚 Clean, structured curriculum & analysis guides
 │   ├── 01_Syllabus_2027.md              # Full 52-unit syllabus tables (Math, Physics, Chemistry)
 │   ├── 02_Chapterwise_Weightage_Analysis.md # 2024-2026 question trends, tiers & slide audit
@@ -36,6 +43,16 @@ Jee Mains/
 ```
 
 ---
+
+## Final Consolidated Analysis (start here)
+
+The single canonical study output is [`final_analysis/README.md`](./final_analysis/README.md). It combines the lecture-backed 2024–2026 priority tables with the audited 173-paper evidence, and documents the known organic/calculus extraction limits.
+
+- **Study order:** [`final_analysis/01_Priority_and_Weightage.md`](./final_analysis/01_Priority_and_Weightage.md)
+- **Historical evidence:** [`final_analysis/02_Historical_Evidence.md`](./final_analysis/02_Historical_Evidence.md)
+- **Study plan:** [`final_analysis/04_Study_Plan.md`](./final_analysis/04_Study_Plan.md)
+
+The earlier model-specific analyses were consolidated into this package; their raw reports are preserved under `final_analysis/archive/`.
 
 ## 1. High-Yield Scoring Roadmap & Weightage Summary
 
