@@ -64,7 +64,7 @@ def subject_rows(s):
     rows=[]
     for r in lecture[s]:
         d=ds.get((s,r['chapter']),{'q':0,'avg':0.0,'papers':0,'rank':0})
-        rows.append({'chapter':r['chapter'],'y24':r['year_2024'],'y25':r['year_2025'],
+        rows.append({'chapter':r['chapter'],'y24':r['year_2024'],'y25':r['year_2025'],'y26':r['year_2026'],
                      'avg':r['yearly_avg_2024_26'],'shift':r['qs_per_shift'],'tier':r['tier'],
                      'branch':r.get('branch',''),'ds_q':d['q'],'ds_avg':d['avg'],
                      'note':note(s,r['chapter'])})
@@ -102,16 +102,18 @@ readme.append(f'- Current-priority table: **{avg_total:,} average annual questio
 readme.append('')
 readme.append('## Top 10 current priorities (lecture 2024-2026, per year)')
 readme.append('')
-readme.append('| # | Subject | Chapter | Avg/year | Qs/shift | DS 173 Qs |')
-readme.append('| ---: | :--- | :--- | ---: | :---: | ---: |')
+readme.append('| # | Subject | Chapter | 2026 Qs | Avg/year | Qs/shift | DS 173 Qs |')
+readme.append('| ---: | :--- | :--- | ---: | ---: | :---: | ---: |')
 for i,r in enumerate(all_sorted[:10],1):
-    readme.append(f'| {i} | {r["subject"]} | {r["chapter"]} | {r["avg"]} | {r["shift"]} | {r["ds_q"]:,} |')
+    readme.append(f'| {i} | {r["subject"]} | {r["chapter"]} | {r["y26"]} | {r["avg"]} | {r["shift"]} | {r["ds_q"]:,} |')
+readme.append('')
+readme.append('> The top-10 table uses the 3-year average. For the latest-year order of your unstudied chapters, see `04_Study_Plan.md`, which is sorted by 2026 share.')
 readme.append('')
 readme.append('## Files')
 readme.append('')
 readme.append('| File | Purpose |')
 readme.append('| :--- | :--- |')
-readme.append('| `01_Priority_and_Weightage.md` | Main study table: 2024/2025/3-year lecture data, DeepSeek evidence, data-quality flags. |')
+readme.append('| `01_Priority_and_Weightage.md` | Main study table: 2024/2025/2026 lecture data, DeepSeek evidence, data-quality flags. |')
 readme.append('| `02_Historical_Evidence.md` | DeepSeek 173-paper coverage, historical top chapters, year trends, limitations. |')
 readme.append('| `03_2025_Shift_Analysis.md` | New 2025 shift breakdown generated from the audited question map. |')
 readme.append('| `04_Study_Plan.md` | Phases + priority order for the 12 unstudied chapters. |')
@@ -138,27 +140,29 @@ l.append('# 01 - Priority and Weightage')
 l.append('')
 l.append('**Primary use:** decide what to study next. **Priority column:** Vedantu 2024-2026 lecture data. **Evidence columns:** DeepSeek 173-paper count (2002-2025).')
 l.append('')
-l.append('> **Column semantics:** `2024` and `2025` are full-year totals across all shifts; `Avg 2024-26` is the average annual total, not the average of the two displayed years. `Qs/Shift` is the lecture estimate. DeepSeek counts are raw classified totals and are **not** per-shift; compare them as historical context only.')
+l.append('> **Column semantics:** `2024`, `2025` and `2026` are full-year totals across all shifts; `Avg 2024-26` is their average annual total. `Qs/Shift` is the lecture estimate. DeepSeek counts are raw classified totals and are **not** per-shift; compare them as historical context only.')
 l.append('')
 l.append(f'## Concentration check')
 l.append('')
 l.append(f'The 65 chapters sum to **{avg_total:,} average annual questions**. The top 20 chapters sum to **{top20_sum} = {pct(top20_sum,avg_total)}**; the top 25 sum to **{sum(r["avg"] for r in all_sorted[:25])} = {pct(sum(r["avg"] for r in all_sorted[:25]),avg_total)}**. The older “top 20 > 65%” claim is false.')
 l.append('')
+l.append('> **Sorting note:** the subject tables are ordered by the 3-year average for stability; the 2026 column is the latest-year signal. `04_Study_Plan.md` is explicitly ordered by 2026 share for your unstudied chapters.')
+l.append('')
 l.append('## Top 20 overall (current priority)')
 l.append('')
-l.append('| # | Subject | Chapter | Avg/year | Qs/shift | DS 173 Qs | DS Avg/paper |')
-l.append('| ---: | :--- | :--- | ---: | :---: | ---: | ---: |')
+l.append('| # | Subject | Chapter | 2026 Qs | Avg/year | Qs/shift | DS 173 Qs | DS Avg/paper |')
+l.append('| ---: | :--- | :--- | ---: | ---: | :---: | ---: | ---: |')
 for i,r in enumerate(top20,1):
-    l.append(f'| {i} | {r["subject"]} | {r["chapter"]} | {r["avg"]} | {r["shift"]} | {r["ds_q"]:,} | {r["ds_avg"]:.2f} |')
+    l.append(f'| {i} | {r["subject"]} | {r["chapter"]} | {r["y26"]} | {r["avg"]} | {r["shift"]} | {r["ds_q"]:,} | {r["ds_avg"]:.2f} |')
 l.append('')
 for s in SUBJECTS:
     rows=subject_rows(s)
     l.append(f'## {s} chapters')
     l.append('')
-    l.append('| # | Chapter | 2024 | 2025 | Avg 2024-26 | Qs/shift | Tier | DS 173 Qs | DS Avg/paper | Evidence note |')
-    l.append('| ---: | :--- | ---: | ---: | ---: | :---: | :--- | ---: | ---: | :--- |')
+    l.append('| # | Chapter | 2024 | 2025 | 2026 | Avg 2024-26 | Qs/shift | Tier | DS 173 Qs | DS Avg/paper | Evidence note |')
+    l.append('| ---: | :--- | ---: | ---: | ---: | ---: | :---: | :--- | ---: | ---: | :--- |')
     for i,r in enumerate(rows,1):
-        l.append(f'| {i} | {r["chapter"]} | {r["y24"]} | {r["y25"]} | {r["avg"]} | {r["shift"]} | {r["tier"]} | {r["ds_q"]:,} | {r["ds_avg"]:.2f} | {r["note"]} |')
+        l.append(f'| {i} | {r["chapter"]} | {r["y24"]} | {r["y25"]} | {r["y26"]} | {r["avg"]} | {r["shift"]} | {r["tier"]} | {r["ds_q"]:,} | {r["ds_avg"]:.2f} | {r["note"]} |')
     l.append('')
 l.append('## Which column to trust')
 l.append('')
@@ -279,28 +283,32 @@ l.append('- **Chemistry:** Thermodynamics + Chemical Kinetics + Solutions + Amin
 l.append('')
 l.append('## Your 12 unstudied chapters - recommended order')
 l.append('')
-l.append('| Order | Your label | Maps to chapter | Avg/year | Qs/shift | Urgency | Action |')
-l.append('| ---: | :--- | :--- | ---: | :---: | :--- | :--- |')
+year_tot={s:{y:sum(r[f'year_{y}'] for r in lecture[s]) for y in (2024,2025,2026)} for s in SUBJECTS}
+lookup={r['chapter']:(s,r) for s in SUBJECTS for r in lecture[s]}
 plan=[
- ('1','Conic Sections','Coordinate Geometry (Lines, Circles, Conics)','Critical','Highest-yield block; do this first.'),
- ('2','Isomerism','Basics of Organic Chemistry (GOC)','Critical','Foundation for all organic mechanisms.'),
- ('3','Equilibrium (Partially)','Equilibrium (Physical & Ionic)','High','Finish pH, buffers, Ksp, Le Chatelier.'),
- ('4','Probability','Probability','High','Bayes + conditional + distribution.'),
- ('5','Capacitors','Capacitor','Medium','Short formula chapter; combine with electrostatics.'),
- ('6','Alternating Current','Alternating Current (AC)','Medium','LCR/resonance/power factor.'),
- ('7','Waves','Waves (Sound & String)','Medium','Organ pipes, beats, Doppler.'),
- ('8','Electromagnetic Waves','Electromagnetic Waves','Medium','Short theory; quick marks.'),
- ('9','Statistics','Statistics','Quick win','Mean/variance/SD; 1 direct question often.'),
- ('10','Practical Organic Chemistry','Practical Organic Chemistry','Medium','Qualitative tests + purification.'),
- ('11','Redox Reactions','Redox Reactions','Low','n-factor/balancing; links to electrochemistry.'),
- ('12','Indefinite Integration','Indefinite Integrals','Low','Do only after Definite; DeepSeek row is an artifact.')]
-# lookup lecture avg
-lookup={r['chapter']:r for s in SUBJECTS for r in lecture[s]}
+ ('1','Conic Sections','Coordinate Geometry (Lines, Circles, Conics)','Critical','Whole Coordinate Geometry; the conic-specific share is lower, but this is the biggest block.'),
+ ('2','Isomerism','Basics of Organic Chemistry (GOC)','Critical','6.7% in 2026, down from 10.6%; still the organic foundation.'),
+ ('3','Equilibrium (Partially)','Equilibrium (Physical & Ionic)','High (rising)','3.2% -> 5.2% -> 5.8%; finish pH, buffers, Ksp, Le Chatelier.'),
+ ('4','Practical Organic Chemistry','Practical Organic Chemistry','High (rising)','1.2% -> 4.2%; strongest riser; do not skip.'),
+ ('5','Probability','Probability','High','4.6% -> 4.7% -> 4.0%; still about 1 question per shift.'),
+ ('6','Statistics','Statistics','Quick win (rising)','2.6% -> 1.8% -> 3.6%; mean/variance/SD; short chapter.'),
+ ('7','Electromagnetic Waves','Electromagnetic Waves','Quick win (rising)','2.7% -> 2.2% -> 3.5%; short theory, easy marks.'),
+ ('8','Capacitors','Capacitor','Low / after risers','2.5% -> 3.5% -> 2.7%; short but below the 3% line in 2026.'),
+ ('9','Alternating Current','Alternating Current (AC)','Low','4.7% in 2024 was a spike; 2.0-2.1% since.'),
+ ('10','Waves','Waves (Sound & String)','Low','1.6% -> 2.4% -> 1.9%; stable and low-volume.'),
+ ('11','Redox Reactions','Redox Reactions','Low','2.7% -> 1.2% -> 1.7%; do after electrochemistry.'),
+ ('12','Indefinite Integration','Indefinite Integrals','Low','1.4% -> 1.8% -> 1.6%; DeepSeek 0 is a notation artifact, not zero exam value.')]
+l.append('| Order | Your label | Maps to chapter | 2026 | 2025 | 2024 | 2026 vs 2025 | Urgency | Action |')
+l.append('| ---: | :--- | :--- | ---: | ---: | ---: | ---: | :--- | :--- |')
 for order,label,ch,urgency,action in plan:
-    r=lookup.get(ch)
-    avg=r['yearly_avg_2024_26'] if r else '—'; shift=r['qs_per_shift'] if r else '—'
-    l.append(f'| {order} | {label} | {ch} | {avg} | {shift} | {urgency} | {action} |')
+    subj,r=lookup[ch]
+    def cell(y):
+        pct=100*r[f'year_{y}']/year_tot[subj][y]
+        return f'{pct:.1f}% ({r[f"year_{y}"]})'
+    d=100*r['year_2026']/year_tot[subj][2026]-100*r['year_2025']/year_tot[subj][2025]
+    l.append(f'| {order} | {label} | {ch} | {cell(2026)} | {cell(2025)} | {cell(2024)} | {d:+.1f} pp | {urgency} | {action} |')
 l.append('')
+l.append('> **Ordering rule:** this table is sorted by the **2026 share of the subject**, latest year first. The phase structure above is broad; this table is the actual priority order for your unstudied chapters.')
 l.append('> “Conic Sections” is part of Coordinate Geometry, and “Isomerism” sits under GOC/Hydrocarbons in the lecture tables; neither is a separate chapter row.')
 l.append('')
 open(os.path.join(OUT,'04_Study_Plan.md'),'w').write('\n'.join(l))

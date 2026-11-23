@@ -13,24 +13,26 @@ This is a **hybrid**: current-syllabus priorities come from the Vedantu 2024-202
 
 ## Top 10 current priorities (lecture 2024-2026, per year)
 
-| # | Subject | Chapter | Avg/year | Qs/shift | DS 173 Qs |
-| ---: | :--- | :--- | ---: | :---: | ---: |
-| 1 | Mathematics | Coordinate Geometry (Lines, Circles, Conics) | 72 | 3 - 4 | 869 |
-| 2 | Chemistry | Basics of Organic Chemistry (GOC) | 43 | 2 - 3 | 166 |
-| 3 | Physics | Heat and Thermodynamics | 43 | 2 - 3 | 463 |
-| 4 | Chemistry | Coordination Compounds | 42 | 2 - 3 | 338 |
-| 5 | Physics | Properties of Matter (Solids & Fluids) | 37 | 1 - 2 | 201 |
-| 6 | Mathematics | Matrices & Determinants | 36 | 1 - 2 | 187 |
-| 7 | Mathematics | Three-Dimensional Geometry (3D) | 35 | 1 - 2 | 192 |
-| 8 | Mathematics | Definite Integration | 32 | 1 - 2 | 360 |
-| 9 | Mathematics | Sequence & Series | 32 | 1 - 2 | 246 |
-| 10 | Physics | Current Electricity | 32 | 1 - 2 | 519 |
+| # | Subject | Chapter | 2026 Qs | Avg/year | Qs/shift | DS 173 Qs |
+| ---: | :--- | :--- | ---: | ---: | :---: | ---: |
+| 1 | Mathematics | Coordinate Geometry (Lines, Circles, Conics) | 71 | 72 | 3 - 4 | 869 |
+| 2 | Chemistry | Basics of Organic Chemistry (GOC) | 32 | 43 | 2 - 3 | 166 |
+| 3 | Physics | Heat and Thermodynamics | 37 | 43 | 2 - 3 | 463 |
+| 4 | Chemistry | Coordination Compounds | 36 | 42 | 2 - 3 | 338 |
+| 5 | Physics | Properties of Matter (Solids & Fluids) | 36 | 37 | 1 - 2 | 201 |
+| 6 | Mathematics | Matrices & Determinants | 33 | 36 | 1 - 2 | 187 |
+| 7 | Mathematics | Three-Dimensional Geometry (3D) | 29 | 35 | 1 - 2 | 192 |
+| 8 | Mathematics | Definite Integration | 31 | 32 | 1 - 2 | 360 |
+| 9 | Mathematics | Sequence & Series | 33 | 32 | 1 - 2 | 246 |
+| 10 | Physics | Current Electricity | 48 | 32 | 1 - 2 | 519 |
+
+> The top-10 table uses the 3-year average. For the latest-year order of your unstudied chapters, see `04_Study_Plan.md`, which is sorted by 2026 share.
 
 ## Files
 
 | File | Purpose |
 | :--- | :--- |
-| `01_Priority_and_Weightage.md` | Main study table: 2024/2025/3-year lecture data, DeepSeek evidence, data-quality flags. |
+| `01_Priority_and_Weightage.md` | Main study table: 2024/2025/2026 lecture data, DeepSeek evidence, data-quality flags. |
 | `02_Historical_Evidence.md` | DeepSeek 173-paper coverage, historical top chapters, year trends, limitations. |
 | `03_2025_Shift_Analysis.md` | New 2025 shift breakdown generated from the audited question map. |
 | `04_Study_Plan.md` | Phases + priority order for the 12 unstudied chapters. |
