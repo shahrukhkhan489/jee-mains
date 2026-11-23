@@ -2,6 +2,7 @@
 
 > **Primary Sources:** 14 slide screenshots in [`raw_sources/lecture_slides/`](../raw_sources/lecture_slides/) from the Vedantu JEE Analysis Master Lecture.  
 > **Coverage:** Consolidated, unobscured multi-year question frequency (2024, 2025, 2026), average questions per session, expected questions per shift, and high-yield scoring roadmaps across Physics, Chemistry, and Mathematics.
+> **Method note:** per-shift values are transcribed where the slide prints an "Av. Qs per Shift" column. For the tables where it does not (Chemistry Part 1 and Mathematics Part 1), the per-shift figure is derived from the 3-year average at ~20 shifts per year - the same rule the slide's printed values follow.
 
 ---
 
@@ -154,7 +155,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ## 6. Appendix: Raw Slide-by-Slide Transcript & Audit Log
 
-> This appendix preserves the complete forensic transcript of each of the 14 individual video screenshots in [`raw_sources/lecture_slides/`](../raw_sources/lecture_slides/) (`WhatsApp Image 2026-11-23 at 20.37.51` to `20.37.58`), logging instructor occlusions and slide annotations for full verification.
+> This appendix preserves the complete forensic transcript of each of the 14 individual video screenshots in [`raw_sources/lecture_slides/`](../raw_sources/lecture_slides/) (`Slide_01` to `Slide_14`), logging instructor occlusions and slide annotations for full verification.
 
 ### 1. [`Slide_01_Chemistry_Weightage_Part1.jpeg`](../raw_sources/lecture_slides/Slide_01_Chemistry_Weightage_Part1.jpeg)
 
@@ -180,7 +181,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 2. [`Slide_02_Chemistry_Weightage_Part2_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_02_Chemistry_Weightage_Part2_ShiftAvg.jpeg)
+### 2. [`Slide_02_Chemistry_Weightage_Part2_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_02_Chemistry_Weightage_Part2_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -208,7 +209,33 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 3. [`Slide_04_Physics_Weightage_Part1_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_04_Physics_Weightage_Part1_ShiftAvg.jpeg)
+### 3. [`Slide_03_Chemistry_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_03_Chemistry_Weightage_Part2_Full.jpeg)
+
+**Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
+
+**Column headers:** Chapters | 2024 | 2025 | 2026 | Average
+
+| Chapters | 2024 | 2025 | 2026 | Average |
+|---|---:|---:|---:|---:|
+| Basics of organic chemistry | 63 | 33 | 32≈ | 43 |
+| Coordination compounds | 48 | 43 | 36↓ | 42 |
+| Aldehydes, Ketones and Carboxylic Acids | 31 | 26 | 35↑ | 31 |
+| Chemical Bonding & Molecular Structure | 49 | 21 | 23≈ | 31 |
+| Electrochemistry | 31 | 22 | 21≈ | 25 |
+| Thermodynamics | 22 | 31 | 22↓ | 25 |
+| D-F Block Elements | 35 | 19 | 21≈ | 25 |
+| Compounds Containing Nitrogen | 28 | 22 | 25≈ | 25 |
+| Some Basic Concepts of Chemistry | 26 | 29 | 18↓ | 24 |
+| Structure of Atom | 24 | 21 | 26↑ | 24 |
+| Periodic Table & Periodicity | 26 | 28 | 18↓ | 24 |
+
+**Annotations:** gold arrow from the right pointing at the 43 in Average (Basics of organic chemistry); a long gold curve down the Average column; small ticks beside the 24 averages of Some Basic Concepts, Structure of Atom and Periodic Table & Periodicity.
+
+**Frame:** the full, unobscured version of the chemistry block in frame 2; instructor at the right edge.
+
+---
+
+### 4. [`Slide_04_Physics_Weightage_Part1_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_04_Physics_Weightage_Part1_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -236,33 +263,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 4. [`Slide_03_Chemistry_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_03_Chemistry_Weightage_Part2_Full.jpeg)
-
-**Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
-
-**Column headers:** Chapters | 2024 | 2025 | 2026 | Average
-
-| Chapters | 2024 | 2025 | 2026 | Average |
-|---|---:|---:|---:|---:|
-| Basics of organic chemistry | 63 | 33 | 32≈ | 43 |
-| Coordination compounds | 48 | 43 | 36↓ | 42 |
-| Aldehydes, Ketones and Carboxylic Acids | 31 | 26 | 35↑ | 31 |
-| Chemical Bonding & Molecular Structure | 49 | 21 | 23≈ | 31 |
-| Electrochemistry | 31 | 22 | 21≈ | 25 |
-| Thermodynamics | 22 | 31 | 22↓ | 25 |
-| D-F Block Elements | 35 | 19 | 21≈ | 25 |
-| Compounds Containing Nitrogen | 28 | 22 | 25≈ | 25 |
-| Some Basic Concepts of Chemistry | 26 | 29 | 18↓ | 24 |
-| Structure of Atom | 24 | 21 | 26↑ | 24 |
-| Periodic Table & Periodicity | 26 | 28 | 18↓ | 24 |
-
-**Annotations:** gold arrow from the right pointing at the 43 in Average (Basics of organic chemistry); a long gold curve down the Average column; small ticks beside the 24 averages of Some Basic Concepts, Structure of Atom and Periodic Table & Periodicity.
-
-**Frame:** the full, unobscured version of the chemistry block in frame 2; instructor at the right edge.
-
----
-
-## 5. [`Slide_05_Physics_Weightage_Part1_Full.jpeg`](../raw_sources/lecture_slides/Slide_05_Physics_Weightage_Part1_Full.jpeg)
+### 5. [`Slide_05_Physics_Weightage_Part1_Full.jpeg`](../raw_sources/lecture_slides/Slide_05_Physics_Weightage_Part1_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -288,7 +289,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 6. [`Slide_06_Physics_Weightage_Part2_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_06_Physics_Weightage_Part2_ShiftAvg.jpeg)
+### 6. [`Slide_06_Physics_Weightage_Part2_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_06_Physics_Weightage_Part2_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -316,7 +317,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 7. [`Slide_07_Physics_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_07_Physics_Weightage_Part2_Full.jpeg)
+### 7. [`Slide_07_Physics_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_07_Physics_Weightage_Part2_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -342,7 +343,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 8. [`Slide_08_Mathematics_Weightage_Part1_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_08_Mathematics_Weightage_Part1_ShiftAvg.jpeg)
+### 8. [`Slide_08_Mathematics_Weightage_Part1_ShiftAvg.jpeg`](../raw_sources/lecture_slides/Slide_08_Mathematics_Weightage_Part1_ShiftAvg.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -369,7 +370,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 9. [`Slide_09_Mathematics_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_09_Mathematics_Weightage_Part2_Full.jpeg)
+### 9. [`Slide_09_Mathematics_Weightage_Part2_Full.jpeg`](../raw_sources/lecture_slides/Slide_09_Mathematics_Weightage_Part2_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -395,7 +396,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 10. [`Slide_10_Mathematics_Weightage_Part2_Instructor.jpeg`](../raw_sources/lecture_slides/Slide_10_Mathematics_Weightage_Part2_Instructor.jpeg)
+### 10. [`Slide_10_Mathematics_Weightage_Part2_Instructor.jpeg`](../raw_sources/lecture_slides/Slide_10_Mathematics_Weightage_Part2_Instructor.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -423,7 +424,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 11. [`Slide_11_Mathematics_Weightage_Part2_Annotated.jpeg`](../raw_sources/lecture_slides/Slide_11_Mathematics_Weightage_Part2_Annotated.jpeg)
+### 11. [`Slide_11_Mathematics_Weightage_Part2_Annotated.jpeg`](../raw_sources/lecture_slides/Slide_11_Mathematics_Weightage_Part2_Annotated.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -449,7 +450,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 12. [`Slide_12_Mathematics_Weightage_Part1_Handwritten.jpeg`](../raw_sources/lecture_slides/Slide_12_Mathematics_Weightage_Part1_Handwritten.jpeg)
+### 12. [`Slide_12_Mathematics_Weightage_Part1_Handwritten.jpeg`](../raw_sources/lecture_slides/Slide_12_Mathematics_Weightage_Part1_Handwritten.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -476,7 +477,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 13. [`Slide_13_Mathematics_Weightage_Part1_Full.jpeg`](../raw_sources/lecture_slides/Slide_13_Mathematics_Weightage_Part1_Full.jpeg)
+### 13. [`Slide_13_Mathematics_Weightage_Part1_Full.jpeg`](../raw_sources/lecture_slides/Slide_13_Mathematics_Weightage_Part1_Full.jpeg)
 
 **Slide title:** Analysis of Total Questions Yearwise & Average Questions per Chapter
 
@@ -501,7 +502,7 @@ To maximize your JEE Main score with the highest return on investment (ROI), foc
 
 ---
 
-## 14. [`Slide_14_Mathematics_20_Chapters_Checklist.jpeg`](../raw_sources/lecture_slides/Slide_14_Mathematics_20_Chapters_Checklist.jpeg)
+### 14. [`Slide_14_Mathematics_20_Chapters_Checklist.jpeg`](../raw_sources/lecture_slides/Slide_14_Mathematics_20_Chapters_Checklist.jpeg)
 
 **Slide title:** Maths Chapters for JEE 2027
 
@@ -539,7 +540,7 @@ Two single-column lists under identical **Chapters** headers.
 
 ---
 
-## General note on the printed averages
+### General note on the printed averages
 
 The Average column is computed from the three year counts, but the slide's rounding is not perfectly consistent - e.g. Heat and Thermodynamics prints **43** where the mean is 43.67, Salt Analysis prints **8** where the mean is 8.67, while other rows round up (Properties Of Matter 36.67 -> 37). One row is off by more than rounding: Vector Algebra prints **29** where 35 + 23 + 27 gives 28.33. All averages are transcribed exactly as printed, and every other row in this document was checked to equal its mean within the slide's rounding.
 

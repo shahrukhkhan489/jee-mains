@@ -322,13 +322,13 @@
 
 | # | Shift / Paper | Local PDF File | Online Download |
 | :---: | :--- | :--- | :---: |
-| 1 |  J E E   M a i n   2 0 1 1   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2011.pdf](../papers/2011/JEE_Main_2011.pdf) | [Web Link](https://links.mathongo.com/ZVj) |
-| 2 |  J E E   M a i n   2 0 1 0   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2010.pdf](../papers/2011/JEE_Main_2010.pdf) | [Web Link](https://links.mathongo.com/wJ4) |
-| 3 |  J E E   M a i n   2 0 0 9   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2009.pdf](../papers/2011/JEE_Main_2009.pdf) | [Web Link](https://links.mathongo.com/1UX) |
-| 4 |  J E E   M a i n   2 0 0 8   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2008.pdf](../papers/2011/JEE_Main_2008.pdf) | [Web Link](https://links.mathongo.com/OPO) |
-| 5 |  J E E   M a i n   2 0 0 7   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2007.pdf](../papers/2011/JEE_Main_2007.pdf) | [Web Link](https://links.mathongo.com/kT2) |
-| 6 |  J E E   M a i n   2 0 0 6   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2006.pdf](../papers/2011/JEE_Main_2006.pdf) | [Web Link](https://links.mathongo.com/hYQ) |
-| 7 |  J E E   M a i n   2 0 0 5   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2005.pdf](../papers/2011/JEE_Main_2005.pdf) | [Web Link](https://links.mathongo.com/tRq) |
-| 8 |  J E E   M a i n   2 0 0 4   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2004.pdf](../papers/2011/JEE_Main_2004.pdf) | [Web Link](https://links.mathongo.com/cOX) |
-| 9 |  J E E   M a i n   2 0 0 3   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2003.pdf](../papers/2011/JEE_Main_2003.pdf) | [Web Link](https://links.mathongo.com/QIX) |
-| 10 |  J E E   M a i n   2 0 0 2   P r e v i o u s   Y e a r   P a p e r  | [📄 JEE_Main_2002.pdf](../papers/2011/JEE_Main_2002.pdf) | [Web Link](https://links.mathongo.com/fEr) |
+| 1 | JEE Main 2011 Previous Year Paper | [📄 JEE_Main_2011.pdf](../papers/2011-2002/JEE_Main_2011.pdf) | [Web Link](https://links.mathongo.com/ZVj) |
+| 2 | JEE Main 2010 Previous Year Paper | [📄 JEE_Main_2010.pdf](../papers/2011-2002/JEE_Main_2010.pdf) | [Web Link](https://links.mathongo.com/wJ4) |
+| 3 | JEE Main 2009 Previous Year Paper | [📄 JEE_Main_2009.pdf](../papers/2011-2002/JEE_Main_2009.pdf) | [Web Link](https://links.mathongo.com/1UX) |
+| 4 | JEE Main 2008 Previous Year Paper | [📄 JEE_Main_2008.pdf](../papers/2011-2002/JEE_Main_2008.pdf) | [Web Link](https://links.mathongo.com/OPO) |
+| 5 | JEE Main 2007 Previous Year Paper | [📄 JEE_Main_2007.pdf](../papers/2011-2002/JEE_Main_2007.pdf) | [Web Link](https://links.mathongo.com/kT2) |
+| 6 | JEE Main 2006 Previous Year Paper | [📄 JEE_Main_2006.pdf](../papers/2011-2002/JEE_Main_2006.pdf) | [Web Link](https://links.mathongo.com/hYQ) |
+| 7 | JEE Main 2005 Previous Year Paper | [📄 JEE_Main_2005.pdf](../papers/2011-2002/JEE_Main_2005.pdf) | [Web Link](https://links.mathongo.com/tRq) |
+| 8 | JEE Main 2004 Previous Year Paper | [📄 JEE_Main_2004.pdf](../papers/2011-2002/JEE_Main_2004.pdf) | [Web Link](https://links.mathongo.com/cOX) |
+| 9 | JEE Main 2003 Previous Year Paper | [📄 JEE_Main_2003.pdf](../papers/2011-2002/JEE_Main_2003.pdf) | [Web Link](https://links.mathongo.com/QIX) |
+| 10 | JEE Main 2002 Previous Year Paper | [📄 JEE_Main_2002.pdf](../papers/2011-2002/JEE_Main_2002.pdf) | [Web Link](https://links.mathongo.com/fEr) |

@@ -1,6 +1,6 @@
 # JEE Main Master Resource & Preparation Archive
 
-> Comprehensive repository containing the **Official JEE Main Syllabus**, **2024–2026 Chapter-Wise Weightage Analysis**, and **173 Downloaded Previous Year Question Papers (2002–2025)** with complete answer keys.
+> Comprehensive repository containing the **JEE Main Syllabus Reference (2026-based)**, **2024–2026 Chapter-Wise Weightage Analysis**, and **173 Downloaded Previous Year Question Papers (2002–2025)** with complete answer keys.
 
 ---
 
@@ -50,7 +50,7 @@ Based on multi-year shift analysis across 2024, 2025, and 2026, here are the top
 
 ---
 
-## 2. Official Syllabus Overview (52 Units)
+## 2. Syllabus Overview (52 Units)
 
 | Subject | Total Units | Branch / Division | Link to Full Syllabus |
 | :--- | :---: | :--- | :--- |
@@ -69,9 +69,9 @@ All 173 shift-wise question papers are saved locally on disk under `papers/` wit
 | Session Group | Time Span | Total Papers | Direct Folder Access |
 | :--- | :---: | :---: | :--- |
 | **Recent Shifts** | 2025 | 10 Papers | [`papers/2025_Jan/`](./papers/2025_Jan/) |
-| **NTA Shift Series** | 2024 – 2022 | 74 Papers | [`papers/2024_Jan/`](./papers/2024_Jan/) • [`papers/2024_Apr/`](./papers/2024_Apr/) • [`papers/2023_Jan/`](./papers/2023_Jan/) • [`papers/2023_Apr/`](./papers/2023_Apr/) |
-| **Multiple Sessions Era** | 2021 – 2019 | 58 Papers | [`papers/2021_Aug/`](./papers/2021_Aug/) • [`papers/2020_Sep/`](./papers/2020_Sep/) • [`papers/2019_Jan/`](./papers/2019_Jan/) |
-| **Online / Offline Transition**| 2018 – 2012 | 21 Papers | [`papers/2018/`](./papers/2018/) • [`papers/2017/`](./papers/2017/) • [`papers/2016/`](./papers/2016/) • [`papers/2015/`](./papers/2015/) |
+| **NTA Shift Series** | 2024 – 2022 | 66 Papers | [`papers/2024_Jan/`](./papers/2024_Jan/) • [`papers/2024_Apr/`](./papers/2024_Apr/) • [`papers/2023_Jan/`](./papers/2023_Jan/) • [`papers/2023_Apr/`](./papers/2023_Apr/) • [`papers/2022_Jun/`](./papers/2022_Jun/) • [`papers/2022_Jul/`](./papers/2022_Jul/) |
+| **Multiple Sessions Era** | 2021 – 2019 | 58 Papers | [`papers/2021_Feb/`](./papers/2021_Feb/) • [`papers/2021_Mar/`](./papers/2021_Mar/) • [`papers/2021_Jul/`](./papers/2021_Jul/) • [`papers/2021_Aug/`](./papers/2021_Aug/) • [`papers/2020_Jan/`](./papers/2020_Jan/) • [`papers/2020_Sep/`](./papers/2020_Sep/) • [`papers/2019_Jan/`](./papers/2019_Jan/) • [`papers/2019_Apr/`](./papers/2019_Apr/) |
+| **Online / Offline Transition**| 2018 – 2012 | 29 Papers | [`papers/2018/`](./papers/2018/) • [`papers/2017/`](./papers/2017/) • [`papers/2016/`](./papers/2016/) • [`papers/2015/`](./papers/2015/) • [`papers/2014/`](./papers/2014/) • [`papers/2013/`](./papers/2013/) • [`papers/2012/`](./papers/2012/) |
 | **Classic JEE Main (AIEEE)** | 2011 – 2002 | 10 Papers | [`papers/2011-2002/`](./papers/2011-2002/) |
 
 👉 *For individual shift links and online mirrors, view [docs/03_Question_Papers_Catalog.md](./docs/03_Question_Papers_Catalog.md)*
@@ -82,6 +82,6 @@ All 173 shift-wise question papers are saved locally on disk under `papers/` wit
 
 | Resource | Proper Clean Name | Description |
 | :--- | :--- | :--- |
-| **Official Syllabus PDF** | [`JEE_Main_2027_Syllabus_Official_Reference.pdf`](./raw_sources/JEE_Main_2027_Syllabus_Official_Reference.pdf) | Original 26-page Vedantu syllabus PDF |
+| **Syllabus Reference PDF** | [`JEE_Main_2027_Syllabus_Official_Reference.pdf`](./raw_sources/JEE_Main_2027_Syllabus_Official_Reference.pdf) | Original 26-page Vedantu syllabus PDF |
 | **PYQ Link Index PDF** | [`JEE_Main_Previous_Year_Papers_Index_MathonGo.pdf`](./raw_sources/JEE_Main_Previous_Year_Papers_Index_MathonGo.pdf) | Original 12-page MathonGo index PDF |
 | **Lecture Video Slides** | [`raw_sources/lecture_slides/`](./raw_sources/lecture_slides/) | 14 original screenshots renamed by subject & slide topic |
