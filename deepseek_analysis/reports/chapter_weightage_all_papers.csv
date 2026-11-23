@@ -1,48 +1,48 @@
 type,subject,chapter,questions,share_of_subject_pct,share_of_all_pct,avg_per_paper,papers_with_question,rank_in_subject
-chapter,Physics,Current Electricity,514,10.12,3.25,2.97,169,1
-chapter,Physics,"Kinematics (1D, 2D, Circular)",459,9.03,2.9,2.65,163,2
-chapter,Physics,Heat and Thermodynamics,453,8.92,2.86,2.62,171,3
-chapter,Physics,Magnetic Effects of Current,356,7.01,2.25,2.06,163,4
-chapter,Physics,Laws of Motion (NLM),307,6.04,1.94,1.77,150,5
-chapter,Physics,"Work, Power & Energy",305,6.0,1.93,1.76,149,6
-chapter,Physics,Electrostatics,303,5.96,1.91,1.75,157,7
-chapter,Physics,Simple Harmonic Motion (SHM),257,5.06,1.62,1.49,136,8
-chapter,Physics,Geometrical Optics (Ray Optics),250,4.92,1.58,1.45,158,9
-chapter,Physics,Atoms and Nuclei,198,3.9,1.25,1.14,136,10
-chapter,Physics,Capacitor,193,3.8,1.22,1.12,139,11
-chapter,Physics,Rotational Motion,185,3.64,1.17,1.07,132,12
-chapter,Physics,Properties of Matter (Solids & Fluids),178,3.5,1.12,1.03,125,13
-chapter,Physics,Dual Nature of Radiation,161,3.17,1.02,0.93,114,14
-chapter,Physics,Units & Measurements,157,3.09,0.99,0.91,120,15
-chapter,Physics,Gravitation,146,2.87,0.92,0.84,119,16
-chapter,Physics,Electromagnetic Waves,137,2.7,0.87,0.79,102,17
-chapter,Physics,Semiconductors / Electronic Devices,131,2.58,0.83,0.76,114,18
-chapter,Physics,Wave Optics,123,2.42,0.78,0.71,109,19
-chapter,Physics,Waves (Sound & String),94,1.85,0.59,0.54,81,20
-chapter,Physics,Electromagnetic Induction (EMI),88,1.73,0.56,0.51,65,21
-chapter,Physics,Alternating Current (AC),86,1.69,0.54,0.5,69,22
-chapter,Chemistry,Chemical Bonding & Molecular Structure,344,8.56,2.17,1.99,159,1
-chapter,Chemistry,Some Basic Concepts of Chemistry (Mole),330,8.22,2.09,1.91,147,2
-chapter,Chemistry,Thermodynamics,325,8.09,2.05,1.88,163,3
-chapter,Chemistry,Coordination Compounds,322,8.02,2.03,1.86,151,4
-chapter,Chemistry,Solutions,281,7.0,1.78,1.62,143,5
-chapter,Chemistry,Structure of Atom,240,5.97,1.52,1.39,139,6
-chapter,Chemistry,p-Block Elements,240,5.97,1.52,1.39,133,7
-chapter,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",225,5.6,1.42,1.3,127,8
-chapter,Chemistry,Equilibrium (Physical & Ionic),212,5.28,1.34,1.23,130,9
-chapter,Chemistry,d- and f-Block Elements,167,4.16,1.06,0.97,119,10
-chapter,Chemistry,Electrochemistry,160,3.98,1.01,0.92,120,11
-chapter,Chemistry,Basics of Organic Chemistry (GOC),157,3.91,0.99,0.91,107,12
-chapter,Chemistry,Biomolecules,157,3.91,0.99,0.91,126,13
-chapter,Chemistry,Chemical Kinetics & Nuclear Chemistry,155,3.86,0.98,0.9,136,14
-chapter,Chemistry,Hydrocarbons,122,3.04,0.77,0.71,92,15
-chapter,Chemistry,Compounds Containing Nitrogen (Amines),106,2.64,0.67,0.61,81,16
-chapter,Chemistry,Redox Reactions,99,2.46,0.63,0.57,78,17
-chapter,Chemistry,"Alcohols, Phenols and Ethers",93,2.32,0.59,0.54,70,18
-chapter,Chemistry,Periodic Table & Periodicity,85,2.12,0.54,0.49,69,19
-chapter,Chemistry,Practical Organic Chemistry,78,1.94,0.49,0.45,72,20
-chapter,Chemistry,Salt Analysis,70,1.74,0.44,0.4,57,21
-chapter,Chemistry,Haloalkanes and Haloarenes,49,1.22,0.31,0.28,46,22
+chapter,Physics,Current Electricity,519,9.9,3.28,3.0,169,1
+chapter,Physics,"Kinematics (1D, 2D, Circular)",497,9.48,3.14,2.87,168,2
+chapter,Physics,Heat and Thermodynamics,463,8.83,2.93,2.68,171,3
+chapter,Physics,Magnetic Effects of Current,362,6.91,2.29,2.09,163,4
+chapter,Physics,Laws of Motion (NLM),307,5.86,1.94,1.77,150,5
+chapter,Physics,"Work, Power & Energy",305,5.82,1.93,1.76,149,6
+chapter,Physics,Electrostatics,303,5.78,1.91,1.75,157,7
+chapter,Physics,Simple Harmonic Motion (SHM),257,4.9,1.62,1.49,136,8
+chapter,Physics,Geometrical Optics (Ray Optics),255,4.87,1.61,1.47,160,9
+chapter,Physics,Atoms and Nuclei,207,3.95,1.31,1.2,141,10
+chapter,Physics,Properties of Matter (Solids & Fluids),201,3.84,1.27,1.16,131,11
+chapter,Physics,Capacitor,194,3.7,1.23,1.12,139,12
+chapter,Physics,Rotational Motion,191,3.64,1.21,1.1,135,13
+chapter,Physics,Dual Nature of Radiation,168,3.21,1.06,0.97,119,14
+chapter,Physics,Units & Measurements,162,3.09,1.02,0.94,123,15
+chapter,Physics,Electromagnetic Waves,157,3.0,0.99,0.91,115,16
+chapter,Physics,Gravitation,157,3.0,0.99,0.91,127,17
+chapter,Physics,Semiconductors / Electronic Devices,141,2.69,0.89,0.82,121,18
+chapter,Physics,Wave Optics,123,2.35,0.78,0.71,109,19
+chapter,Physics,Waves (Sound & String),98,1.87,0.62,0.57,84,20
+chapter,Physics,Electromagnetic Induction (EMI),88,1.68,0.56,0.51,65,21
+chapter,Physics,Alternating Current (AC),86,1.64,0.54,0.5,69,22
+chapter,Chemistry,Chemical Bonding & Molecular Structure,350,8.48,2.21,2.02,159,1
+chapter,Chemistry,Some Basic Concepts of Chemistry (Mole),332,8.04,2.1,1.92,147,2
+chapter,Chemistry,Coordination Compounds,327,7.92,2.07,1.89,151,3
+chapter,Chemistry,Thermodynamics,325,7.87,2.05,1.88,163,4
+chapter,Chemistry,Solutions,283,6.86,1.79,1.64,143,5
+chapter,Chemistry,Structure of Atom,246,5.96,1.55,1.42,142,6
+chapter,Chemistry,p-Block Elements,245,5.94,1.55,1.42,134,7
+chapter,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",232,5.62,1.47,1.34,128,8
+chapter,Chemistry,Equilibrium (Physical & Ionic),220,5.33,1.39,1.27,131,9
+chapter,Chemistry,d- and f-Block Elements,175,4.24,1.11,1.01,122,10
+chapter,Chemistry,Electrochemistry,171,4.14,1.08,0.99,126,11
+chapter,Chemistry,Chemical Kinetics & Nuclear Chemistry,162,3.93,1.02,0.94,137,12
+chapter,Chemistry,Basics of Organic Chemistry (GOC),160,3.88,1.01,0.92,109,13
+chapter,Chemistry,Biomolecules,159,3.85,1.0,0.92,128,14
+chapter,Chemistry,Hydrocarbons,132,3.2,0.83,0.76,95,15
+chapter,Chemistry,Compounds Containing Nitrogen (Amines),112,2.71,0.71,0.65,83,16
+chapter,Chemistry,Redox Reactions,101,2.45,0.64,0.58,79,17
+chapter,Chemistry,"Alcohols, Phenols and Ethers",97,2.35,0.61,0.56,71,18
+chapter,Chemistry,Periodic Table & Periodicity,92,2.23,0.58,0.53,75,19
+chapter,Chemistry,Practical Organic Chemistry,79,1.91,0.5,0.46,73,20
+chapter,Chemistry,Salt Analysis,73,1.77,0.46,0.42,58,21
+chapter,Chemistry,Haloalkanes and Haloarenes,54,1.31,0.34,0.31,50,22
 chapter,Mathematics,"Coordinate Geometry (Lines, Circles, Conics)",851,18.76,5.38,4.92,173,1
 chapter,Mathematics,"Sets, Relations & Functions",466,10.27,2.94,2.69,171,2
 chapter,Mathematics,Definite Integration,359,7.91,2.27,2.08,171,3
@@ -64,8 +64,8 @@ chapter,Mathematics,Complex Numbers,68,1.5,0.43,0.39,66,18
 chapter,Mathematics,Inverse Trigonometric Functions (ITF),64,1.41,0.4,0.37,55,19
 chapter,Mathematics,Differentiation,14,0.31,0.09,0.08,14,20
 chapter,Mathematics,Indefinite Integrals,0,0.0,0.0,0.0,0,21
-unclassified,Physics,Unclassified (insufficient text),194,3.68,1.23,1.12,,
-unclassified,Chemistry,Unclassified (insufficient text),1091,20.68,6.89,6.31,,
+unclassified,Physics,Unclassified (insufficient text),34,0.64,0.21,0.2,,
+unclassified,Chemistry,Unclassified (insufficient text),981,18.6,6.2,5.67,,
 unclassified,Mathematics,Unclassified (insufficient text),738,13.99,4.66,4.27,,
 outside_list,Chemistry,Outside current chapter list: Polymers,53,1.0,0.33,0.31,,
 outside_list,Chemistry,Outside current chapter list: Surface Chemistry,35,0.66,0.22,0.2,,
