@@ -25,7 +25,7 @@ for subj, chs in chapters.TAXONOMY.items():
 
 def norm(t):
     t = unicodedata.normalize('NFKC', t).lower()
-    t = t.replace('\u2019',"'").replace('\u2013','-').replace('\u2014','-')
+    t = t.replace('\u2019',"'").replace('\u2013','-').replace('\u2014','-').replace('\u2212','-')
     return re.sub(r'\s+',' ',t)
 
 def score_all(t):
@@ -37,6 +37,20 @@ def score_all(t):
             if c: s += min(c,2)*w
         if s: out[key]=s
     return out
+
+
+OUTSIDE = [
+ ("Surface Chemistry", ["colloid","tyndall","zeta potential","adsorption","aerosol","emulsion","micelle","surface chemistry"]),
+ ("Polymers", ["polymer","monomer","neoprene","teflon","nylon","bakelite","vulcanisation","addition polymerisation","condensation polymerisation"]),
+ ("Chemistry in Everyday Life", ["drug","antibiotic","antacid","antiseptic","analgesic","antihistamine","antifertility","artificial sweetener"]),
+ ("Environmental Chemistry", ["bod","cod","pollution","eutrophication","ozone hole","greenhouse"]),
+ ("Hydrogen and s-Block", ["h2o2","hydrogen peroxide","lithium","sodium","potassium","alkali metal","alkaline earth"]),
+ ("Solid State", ["unit cell","lattice","fcc","bcc","packing efficiency","crystal"]),
+]
+def outside_chapter(t):
+    for name,terms in OUTSIDE:
+        if any(term in t for term in terms): return "Outside current chapter list: "+name
+    return None
 
 def top_in(scores, subject):
     best=None
@@ -69,6 +83,9 @@ def classify_paper(p):
     for bi,q,sc in cached:
         subj=order[bi]
         ch,margin=top_in(sc,subj)
+        if ch=='Unclassified' and subj=='Chemistry':
+            oc=outside_chapter(norm(q['text']))
+            if oc: ch=oc
         score=max((s for (s2,c),s in sc.items() if s2==subj), default=0)
         out.append({'q':q['q'],'text':q['text'],'section_subject':subj,
                     'subject':subj,'chapter':ch,'score':score,'margin':margin})
