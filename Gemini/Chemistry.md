@@ -39,7 +39,7 @@
 | **Haloalkanes and Haloarenes** | 25 | 19 | 17 | 20 | — | Tier 2 |
 | **p-Block Elements** | 25 | 13 | 21 | 20 | — | Tier 2 |
 | **Alcohols, Phenols and Ethers** | 23 | 13 | 13 | 16 | — | Tier 3 |
-| **Redox Reactions** | 16 | 6 | 8 | 10 | **0 - 1** | Tier 3 |
+| **Redox Reactions** | 16 | 6 | 8 | 10 | — | Tier 3 |
 | **Practical Organic Chemistry** | 16 | 6 | 20 | 14 | — | Tier 3 |
 | **Salt Analysis** | 8 | 12 | 6 | 8 | — | Tier 3 |
 

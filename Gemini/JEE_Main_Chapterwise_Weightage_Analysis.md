@@ -17,7 +17,7 @@
 3. [Mathematics Chapter-Wise Analysis](#3-mathematics-chapter-wise-analysis)
    - [High-Weightage Chapters (Tier 1 & Tier 2)](#mathematics-high-weightage-chapters)
    - [Moderate & Low-Weightage Chapters (Tier 3)](#mathematics-moderate--low-weightage-chapters)
-   - [20 Chapters Checklist for JEE 2027](#official-20-chapters-checklist-for-jee-2027)
+   - [20 Chapters Checklist for JEE 2027](#20-chapters-checklist-for-jee-2027)
    - [Mathematics Strategy & Key Takeaways](#mathematics-strategy--key-takeaways)
 4. [Cross-Subject High-Yield Priority Roadmap](#4-cross-subject-high-yield-priority-roadmap)
 
@@ -100,7 +100,7 @@
 | **Haloalkanes and Haloarenes** | 25 | 19 | 17 | 20 | — | Tier 2 |
 | **p-Block Elements** | 25 | 13 | 21 | 20 | — | Tier 2 |
 | **Alcohols, Phenols and Ethers** | 23 | 13 | 13 | 16 | — | Tier 3 |
-| **Redox Reactions** | 16 | 6 | 8 | 10 | **0 - 1** | Tier 3 |
+| **Redox Reactions** | 16 | 6 | 8 | 10 | — | Tier 3 |
 | **Practical Organic Chemistry** | 16 | 6 | 20 | 14 | — | Tier 3 |
 | **Salt Analysis** | 8 | 12 | 6 | 8 | — | Tier 3 |
 
@@ -134,13 +134,13 @@
 
 | Chapter Name | 2024 (Total Qs) | 2025 (Total Qs) | 2026 (Trend/Qs) | Average Qs | Av. Qs per Shift | Priority Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Permutations & Combinations (P&C)** | 21 | 21 | 22 | 20 | — | Tier 2 |
-| **Binomial Theorem** | 23 | 24 | 17 | 20 | — | Tier 2 |
+| **Permutations & Combinations (P&C)** | 21 | 21 | 22 | 21 | — | Tier 2 |
+| **Binomial Theorem** | 23 | 24 | 17 | 21 | — | Tier 2 |
 | **Area Under the Curve (AUC)** | 22 | 18 | 19 | 20 | — | Tier 2 (High ROI) |
 | **Applications of Derivatives (AOD)** | 26 | 14 | 11 | 17 | — | Tier 3 |
 | **Sets, Relations & Functions** | 21 | 16 | 14 | 17 | — | Tier 3 |
 | **Quadratic Equations** | 18 | 16 | 16 | 17 | — | Tier 3 |
-| **Statistics** | 16 | 8 | 16 | 13 | — | Tier 3 (High ROI) |
+| **Statistics** | 15 | 8 | 16 | 13 | — | Tier 3 (High ROI) |
 | **Inverse Trigonometric Functions (ITF)** | 8 | 11 | 10 | 10 | — | Tier 3 |
 | **Trigonometric Ratios and Identities** | 7 | 6 | 12 | 8 | — | Tier 3 |
 | **Differentiation** | 15 | 4 | 2 | 7 | — | Tier 3 |

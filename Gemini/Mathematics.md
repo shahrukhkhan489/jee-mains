@@ -32,13 +32,13 @@ The table below breaks down the total questions asked in 2024, 2025, and 2026 ac
 
 | Chapter Name | 2024 | 2025 | 2026 | Average Qs | Av. Qs per Shift | Priority Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Permutations & Combinations (P&C)** | 21 | 21 | 22 | 20 | — | Tier 2 |
-| **Binomial Theorem** | 23 | 24 | 17 | 20 | — | Tier 2 |
+| **Permutations & Combinations (P&C)** | 21 | 21 | 22 | 21 | — | Tier 2 |
+| **Binomial Theorem** | 23 | 24 | 17 | 21 | — | Tier 2 |
 | **Area Under the Curve (AUC)** | 22 | 18 | 19 | 20 | — | Tier 2 (High ROI) |
 | **Applications of Derivatives (AOD)** | 26 | 14 | 11 | 17 | — | Tier 3 |
 | **Sets, Relations & Functions** | 21 | 16 | 14 | 17 | — | Tier 3 |
 | **Quadratic Equations** | 18 | 16 | 16 | 17 | — | Tier 3 |
-| **Statistics** | 16 | 8 | 16 | 13 | — | Tier 3 (High ROI) |
+| **Statistics** | 15 | 8 | 16 | 13 | — | Tier 3 (High ROI) |
 | **Inverse Trigonometric Functions (ITF)** | 8 | 11 | 10 | 10 | — | Tier 3 |
 | **Trigonometric Ratios and Identities** | 7 | 6 | 12 | 8 | — | Tier 3 |
 | **Differentiation** | 15 | 4 | 2 | 7 | — | Tier 3 |

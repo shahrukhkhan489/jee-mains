@@ -6,7 +6,7 @@ Welcome to the comprehensive JEE Main archive transcribed directly from the sour
 
 ## Organization of Markdown Files
 
-You can navigate the transcriptions either **by Subject** (combining official syllabus, question trends, and strategy) or **by Source Document** (1:1 faithful transcription of each original resource).
+You can navigate the transcriptions either **by Subject** (combining the detailed syllabus, question trends, and strategy) or **by Source Document** (1:1 faithful transcription of each original resource).
 
 ### View 1: By Subject (The 3 JEE Core Disciplines)
 1. **[Mathematics.md](./Mathematics.md)**
